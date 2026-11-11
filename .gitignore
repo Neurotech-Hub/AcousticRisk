@@ -1,0 +1,26 @@
+# Published literature (copyrighted PDFs; not distributed)
+literature/
+
+# Build products
+build/
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.lof
+*.lot
+*.nav
+*.snm
+*.vrb
+
+# OS / editor
+.DS_Store
+*.swp
+*~
+.idea/
+.vscode/

@@ -1,0 +1,41 @@
+% Root document for the Sound Danger manuscript.
+% Build from the repository root via `make pdf` / `make docx` (see README.md).
+% Compile selectively during drafting with:
+%   \includeonly{sections/01_q1_biological_meaning}
+
+\documentclass[12pt,letterpaper]{article}
+
+\input{preamble}
+
+\title{When Does a Sound Mean Danger?\\
+\large Neural and Behavioral Responses to Ecologically Relevant Sounds in Rodents}
+\author{}
+\date{}
+
+\begin{document}
+
+\maketitle
+
+\input{frontmatter/abstract}
+
+\tableofcontents
+\newpage
+
+\include{sections/00_introduction}
+\include{sections/01_q1_biological_meaning}
+\include{sections/02_q2_innate_vs_learned}
+\include{sections/03_q3_neural_encoding}
+\include{sections/04_q4_behavioral_expression}
+\include{sections/05_q5_learning_reliability}
+\include{sections/06_q6_habituation_recovery}
+\include{sections/07_q7_temporal_expectation}
+\include{sections/08_synthesis}
+\include{sections/09_conclusion}
+
+\clearpage
+\input{tables/table1_evidence}
+
+\bibliographystyle{plainnat}
+\bibliography{refs/references}
+
+\end{document}
