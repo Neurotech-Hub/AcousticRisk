@@ -1,0 +1,79 @@
+% Practical evidence matrices (lab + field). Status: positive / null / mixed / proposed.
+% Acoustic numbers only when reported in sources consulted; otherwise NR.
+% Full study coding: \tabref{tab:evidence-supp}; CSV: tables/practical_matrix.csv
+
+\subsection*{How to interpret the selection matrices}
+\label{sec:selection-matrix-howto}
+
+Rows summarize what was \emph{measured}, not universal prescriptions for a species. \textbf{Positive} means the cited study reported an effect in the listed direction under the stated conditions; \textbf{null} means no selective effect on that endpoint; \textbf{mixed} means conflicting conditions or fragile generality; \textbf{proposed} marks extrapolation beyond the measured claim. Distinguishing three claim levels helps reading: (i)~proof of \emph{detection} or nonspecific change; (ii)~proof of a \emph{particular response} (e.g., freezing, approach, vigilance); (iii)~evidence for \emph{lasting ecological impact} (foraging, multi-session persistence). Acoustic confounds and matched-control logic are in \tabref{tab:features}; repetition and recovery are treated in \secref{sec:persistence}. Parameters listed as NR were not reported in the sources used for this draft---they are not estimates.
+
+\begin{landscape}
+\begingroup
+\footnotesize
+\singlespacing
+\setlength{\tabcolsep}{3pt}
+\begin{longtable}{@{}p{0.85in}p{0.75in}p{1.35in}p{1.1in}p{0.95in}p{0.85in}p{0.55in}p{0.7in}@{}}
+\caption{Laboratory selection matrix. SPL is as stated by the source (location often NR). Status is for the listed endpoint, not for ``fear'' in general.}\label{tab:practical-lab}\\
+\toprule
+\textbf{Species} & \textbf{Outcome} & \textbf{Stimulus / comparison} & \textbf{Acoustic params} & \textbf{Receiver} & \textbf{Endpoint} & \textbf{Status} & \textbf{Ref.} \\
+\midrule
+\endfirsthead
+\toprule
+\textbf{Species} & \textbf{Outcome} & \textbf{Stimulus / comparison} & \textbf{Acoustic params} & \textbf{Receiver} & \textbf{Endpoint} & \textbf{Status} & \textbf{Ref.} \\
+\midrule
+\endhead
+\bottomrule
+\endlastfoot
+Rat & Selective freezing & Partner 22-kHz vs naive receivers & USV band; SPL NR & Footshock-experienced & Freezing & positive & \citet{KimEtAl2010} \\ \addlinespace[2pt]
+Rat & Selective freezing & Natural 22-kHz (single stim.) & USV; bands compared & Naive & Defense/freezing & null & \citet{EndresEtAl2007} \\ \addlinespace[2pt]
+Rat & Freezing (pooled band) & Pooled 22-kHz-range stimuli & 22-kHz range & Naive & Freezing & positive & \citet{EndresEtAl2007} \\ \addlinespace[2pt]
+Rat & Locomotion / HR & 22-/50-kHz vs tones & SPL NR & Paired/single housed & Locom.; HR; vocal & positive & \citet{OlszynskiEtAl2020} \\ \addlinespace[2pt]
+Rat & Approach + NAc DA & 50-kHz vs 22-kHz vs noise & $\sim$69~dB; 15~s; 1--2~min ISI & Food-restricted & Approach; DA & positive (50-kHz) & \citet{WilluhnEtAl2014} \\ \addlinespace[2pt]
+Rat & Approach & 50-kHz sine approx.\ vs natural & USV; mod.\ removed & Juvenile/adult & Approach & positive & \citet{WohrSchwarting2007} \\ \addlinespace[2pt]
+Rat & Maintained approach & 50-kHz + social contingency & Params NR & Lab & Approach over reps & mixed$^{a}$ & \citet{BerzEtAl2022} \\ \addlinespace[2pt]
+Mouse & Flight vs freezing & 17--20~kHz FM sweeps & 85~dB & $\pm$shock; cage context & Flight; freezing & positive (state) & \citet{MongeauEtAl2003} \\ \addlinespace[2pt]
+Mouse DBA/2 & Defense / feeding & Owl vs non-predator calls & 60--70~dB; 2~min & Predator-naive & Defense; intake $\downarrow\sim$half & mixed$^{b}$ & \citet{HendrieNeill1991} \\ \addlinespace[2pt]
+Mouse/rat/gerbil & Uncond.\ defense & Owl/raptor vs non-predator & 70--80~dB peak; 0.3--9~kHz & Predator-naive & Freezing/defense & null & \citet{KindermannEtAl2009} \\ \addlinespace[2pt]
+Rat & Orienting & Distress squeal vs timing mimic & 80 or 100~dB & Lab-reared & Lick suppression & mixed$^{c}$ & \citet{EvansHammond1983a} \\ \addlinespace[2pt]
+Rat & Startle vs schedule & Tones; regular vs variable ISI & Mean ISI 8~s (Exp~II) & Naive & Startle amplitude & positive & \citet{Davis1970} \\ \addlinespace[2pt]
+Rat & Caller preference & Stranger vs cagemate 50-kHz & USV; self-admin.\ & Lab & Choice; cocaine intake & positive & \citet{VielleEtAl2021} \\ \addlinespace[2pt]
+Prairie vole & Partner discrim.\ & Partner vs stranger calls & Params NR & Pair-bonded females & Preference & positive & \citet{WarrenEtAl2025} \\
+\end{longtable}
+\endgroup
+{\footnotesize $^{a}$Approach present but habituates despite reward contingency (persistence limit). $^{b}$Positive in this strain/paradigm; later untreated DBA/2 nulls reported (see \citealp{KindermannEtAl2009}). $^{c}$Natural $>$ mimic at 100~dB, not at 80~dB; recovery favors loud natural after rest.}
+\end{landscape}
+
+\begin{landscape}
+\begingroup
+\footnotesize
+\singlespacing
+\setlength{\tabcolsep}{3pt}
+\begin{longtable}{@{}p{0.95in}p{0.8in}p{1.25in}p{1.15in}p{0.85in}p{0.85in}p{0.55in}p{0.7in}@{}}
+\caption{Field and semi-natural selection matrix. Same status conventions as \tabref{tab:practical-lab}. Persistence columns in the text note when multi-session durability was not tested.}\label{tab:practical-field}\\
+\toprule
+\textbf{Species} & \textbf{Outcome} & \textbf{Stimulus / comparison} & \textbf{Acoustic params} & \textbf{Receiver} & \textbf{Endpoint} & \textbf{Status} & \textbf{Ref.} \\
+\midrule
+\endfirsthead
+\toprule
+\textbf{Species} & \textbf{Outcome} & \textbf{Stimulus / comparison} & \textbf{Acoustic params} & \textbf{Receiver} & \textbf{Endpoint} & \textbf{Status} & \textbf{Ref.} \\
+\midrule
+\endhead
+\bottomrule
+\endlastfoot
+Y.-b.\ marmot & Graded vigilance & Alarms varying in rate & Rate/amplitude; SPL NR & Free-living & Vigilance & positive & \citet{BlumsteinArmitage1997} \\ \addlinespace[2pt]
+Y.-b.\ marmot & Foraging suppress & Alarms + nonlinear noise & Added roughness & Free-living & Foraging & positive & \citet{BlumsteinRecapet2009} \\ \addlinespace[2pt]
+Rich.\ ground sq.\ & Vigilance by type & Chirps/whistles/chucks & Params NR & Free-living & Vigilance & positive & \citet{SloanEtAl2005} \\ \addlinespace[2pt]
+Gunnison PD & Escape topography & Human/dog/coyote alarms & 11~s; 45~dB at 50~m & Free-living & Escape acts & positive & \citet{KiriazisSlobodchikoff2006} \\ \addlinespace[2pt]
+E.\ chipmunk & Foraging disrupt & Conspecific alarms & Params NR & Free-living adults & Vigil.; intake; latency & positive & \citet{BaackSwitzer2000} \\ \addlinespace[2pt]
+E.\ gray squirrel & Foraging disrupt & Predator calls & Params NR & Free-living & Vigil.; foraging & positive & \citet{JayneEtAl2015} \\ \addlinespace[2pt]
+Marmot; GMGS & Heterospec.\ vig.\ & Conspec./heterospec.\ alarms & Vs birdsong & Free-living & Vigilance & positive & \citet{Shriner1998} \\ \addlinespace[2pt]
+E.\ gray squirrel & Eavesdropping & Familiar/similar bird alarms & Vs dissimilar alarm & Free-living & Vigilance & positive & \citet{GetschowEtAl2013} \\ \addlinespace[2pt]
+E.\ gray squirrel & Safety recovery & Hawk then bird chatter & Vs ambient noise & Free-living & Vigilance $\downarrow$ & positive & \citet{LillyEtAl2019} \\ \addlinespace[2pt]
+Rich.\ ground sq.\ & Caller renewal & Repeated chirps; caller switch & 84--91~dB; $\sim$3~min ISI & Juvenile females & Vigilance & positive & \citet{Hare1998} \\ \addlinespace[2pt]
+Rich.\ ground sq.\ & Reliability discount & Unreliable vs reliable caller & 84--91~dB; 10 exemplars & Juvenile females & Posture & positive & \citet{HareAtkins2001} \\ \addlinespace[2pt]
+Y.-b.\ marmot & Reliability scrutinize & Unreliable callers & Params NR & Free-living & Foraging/vigil.\ & positive & \citet{BlumsteinEtAl2004} \\ \addlinespace[2pt]
+Vole vs spiny mouse & Defense vs endocrine & Owl calls & Params NR & Wild-caught & Behavior; steroids & mixed$^{d}$ & \citet{EilamEtAl1999} \\
+\end{longtable}
+\endgroup
+{\footnotesize $^{d}$Voles: behavioral defense + corticosterone; spiny mice: cortisol without detectable overt defense.}
+\end{landscape}

@@ -2,13 +2,13 @@
 
 ## Role
 
-Draft and revise sections of a scientific review for researchers in behavioral ecology, neuroscience, and animal behavior. Build a coherent argument, not a catalog of studies. Priorities: accuracy, synthesis, conceptual depth, economy.
+Draft and revise sections of a scholarly review of how rodents interpret biologically significant sounds: how receivers extract acoustic information, translate it into physiology and action, and revise responses with experience and ecological context. The readers are neuroscientists, behavioral scientists, field biologists, and ecologists, many of whom are unfamiliar with the terminology or methods of neighboring disciplines. Build a coherent argument, not a catalog of studies. The review is not a playback guide, stimulus-optimization program, or methods manual. Priorities: accuracy, synthesis, conceptual depth, clarity. Distinguish established findings, plausible mechanisms, and hypotheses.
 
 ## Inputs (read before drafting)
 
 | File | Use |
 |---|---|
-| `docs/OUTLINE.md` | The section's question, argument, and scope. Do not expand scope beyond it. |
+| `docs/OUTLINE.md` | The section's question, argument, and scope. Do not expand scope beyond it. If it conflicts with the receiver-centered framing of the current manuscript, follow the manuscript and flag the conflict. |
 | `docs/LITERATURE_MAP.md` | The section's evidence table, **claim guardrails**, and the index's full-text-check column. |
 | `agents/STYLE.md` | The exemplar and paragraph architecture for this section; read the listed PDF pages in `literature/`. |
 | `manuscript/refs/references.bib` | The only citable keys. |
@@ -21,14 +21,44 @@ Draft and revise sections of a scientific review for researchers in behavioral e
 - Mark anything not verified against the article with `% VERIFY: <what to check>` on the line above. Always do this for details drawn from papers marked **not checked**, **partial**, or **doubtful** in the map's index.
 - Run `make pdf` and fix LaTeX errors before handing off.
 
-## Prose
+## Voice and storytelling
 
-- Precise, economical academic prose; concrete statements over abstractions. Specific subjects and active, specific verbs.
-- Assume an expert reader. Explain concepts that cross disciplines (e.g., hazard functions for ecologists, vigilance budgets for neuroscientists), not basic science.
-- Vary sentence length with argumentative complexity. Use technical terms where they add precision.
-- Banned: "delve," "intricate," "crucial," "robust," "landscape," "underscores," "highlights," "not only … but also," generic importance claims, rhetorical questions, formulaic openings and conclusions, excessive signposting, transitions without a scientific connection, and closing sentences that restate the paragraph.
-- Qualify only where a specific methodological limitation warrants it; do not hedge well-established findings.
+Write as a curious scientist explaining something fascinating to another curious scientist---not as a textbook, a technical manual, or a literature summary.
+
+- **Lead with the simple idea, then develop the complexity.** Open sections and paragraphs with a clear observation or a genuine scientific question before introducing circuits, paradigms, or specialized terms.
+- **Let the reader follow the reasoning.** What do we observe? Why is it interesting or surprising? What have experiments revealed? What remains unexplained? Connect studies through these questions rather than through a succession of citations.
+- **Make important points in short, declarative sentences.** Use longer sentences for evidence and qualification, not for the main claim.
+- **Explain, don't talk down.** Define a brain region, acronym, method, or ecological concept on first use in plain words (e.g., "the periaqueductal gray (PAG), a midbrain region that organizes defensive movements"; "vigilance, an upright scanning posture that trades feeding time for information"). Never explain what any scientist already knows.
+- **Use concrete biology.** A specific animal doing a specific thing beats an abstraction. Use a metaphor only when it genuinely clarifies; avoid forced analogies.
+- **Qualify once, precisely.** State the limit of an inference where it applies, naming the actual source of uncertainty (stimulus, species, method). Do not repeat the same caveat in every paragraph; once the evidence classification is established for a study, refer to it briefly.
+- Banned: "delve," "intricate," "crucial," "robust," "landscape," "underscores," "highlights," "not only … but also," "it is important to note," "taken together" as a reflex, generic importance claims, formulaic openings and conclusions, excessive signposting, transitions without a scientific connection, stacked hedges, and closing sentences that restate the paragraph. Rhetorical questions are banned; a genuine scientific question that the paragraph then answers is encouraged.
 - Remove sentences that sound polished but carry no information.
+
+## Evidence classification (use one scheme everywhere)
+
+Label evidence on two independent axes, in plain words. Do not invent tiers, letters, or alternative schemes in prose.
+
+**What the animal heard (stimulus):**
+
+1. **Natural vocalizations** --- conspecific alarm, distress, or social calls; heterospecific alarms; predator calls.
+2. **Other natural sounds** --- ecologically meaningful acoustic cues that are not vocalizations (e.g., the silence when another rat stops moving).
+3. **Synthetic or conditioned sounds** --- tones, noise, sweeps, looming sounds, or any sound given meaning by pairing with shock.
+4. **Non-acoustic paradigms** --- cite only to delimit an acoustic claim.
+
+**What the experiment can show (method):**
+
+1. **Causal** --- lesion, inactivation, or pathway-specific manipulation.
+2. **Activity** --- unit recording, photometry, c-Fos, or fMRI; correlational.
+3. **Physiology or behavior only** --- cardiac, endocrine, or behavioral measures without neural access.
+4. **Theory** --- functional or computational accounts.
+
+A result in one stimulus class is not a demonstration in another. Keep natural vocalizations distinct from other natural sounds. Activity is not necessity.
+
+## Field-to-circuit integration
+
+- Use field observations to pose neural questions, and neural findings to sharpen behavioral predictions. Integration should happen in the argument, not only through cross-references.
+- Name the computational demand a behavior places on the receiver (e.g., rapid acoustic defense, learned threat evaluation, flexible action selection) before naming candidate circuits.
+- Present any link between a laboratory circuit and a field behavior as a hypothesis with a stated test; never imply that a circuit has been demonstrated in a species where it has not been studied.
 
 ## Reasoning and evidence
 
@@ -48,16 +78,16 @@ Draft and revise sections of a scientific review for researchers in behavioral e
 - Each section advances the manuscript's central argument and does not repeat background established elsewhere.
 - End sections with a substantive synthesis, open question, or specific limitation, not a generic call for research.
 - Separate established findings, plausible mechanisms, and testable hypotheses. Say which conclusions hold across species and which are species- or context-specific, and what current evidence cannot distinguish.
-- Predictions should discriminate between competing explanations. For proposed models or applications, state their empirical assumptions; never present an untested model, playback schedule, or intervention as validated, and do not overstate lab-to-field translation.
+- Predictions should discriminate between competing explanations. For proposed models, state their empirical assumptions; never present an untested model, playback schedule, or intervention as validated, and do not overstate lab-to-field translation.
 
 ## Workflow per section
 
 1. **Plan** the question, central argument, competing explanations, and the strongest supporting, contradicting, and qualifying evidence (from the map and guardrails).
 2. **Select** the exemplar architecture (`STYLE.md`).
-3. **Outline** the argument paragraph by paragraph before writing prose.
+3. **Outline** the argument paragraph by paragraph before writing prose: observation → why it matters → what experiments show → what remains open.
 4. **Draft** following the rules above.
 5. **Verify** every claim and citation against the map; add `% VERIFY` / `% MISSING` comments.
-6. **Audit** for redundancy, weak transitions, unsupported inference, and banned language.
+6. **Audit** for redundancy, repeated caveats, undefined jargon, weak transitions, unsupported inference, and banned language.
 
 ## Revising after `REVIEWER.md`
 
@@ -68,6 +98,6 @@ Draft and revise sections of a scientific review for researchers in behavioral e
 
 ## Acceptance check
 
-For every paragraph: Does it make a specific point? Is each claim supported by the cited evidence? Are observation, interpretation, and speculation distinguishable? Are key alternatives or limitations missing? Does it add something new? Could it be said more precisely or in fewer words?
+For every paragraph: Does it open with an idea a non-specialist can grasp? Does it make a specific point? Is each claim supported by the cited evidence, with stimulus and method classified correctly? Are observation, interpretation, and speculation distinguishable? Are key alternatives or limitations missing---or repeated needlessly? Does it add something new? Could it be said more clearly or in fewer words?
 
-The target is prose that reads like a careful scientist: technically sophisticated, evidence-driven, independent, and economical.
+The target is prose that reads like scientists genuinely interested in how animals interpret the sounds around them: technically rigorous, evidence-driven, and a pleasure to follow.

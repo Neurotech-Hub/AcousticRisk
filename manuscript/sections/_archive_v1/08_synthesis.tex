@@ -1,0 +1,63 @@
+\section{Integrative synthesis: from perception to response persistence}
+\label{sec:synthesis}
+
+% Receiver-centered model and critical distinctions.
+% See docs/OUTLINE.md — Integrative synthesis; Proposed figures and table.
+% Draft 1. Style model: Blumstein (agents/STYLE.md). Figures are placeholders (docs/FIGURE_PROMPTS.md).
+% Study-level evidence lives in Q1--Q7; this section cites it in brief and points back with \secref.
+
+Across the seven questions, whether a sound evokes approach, vigilance, freezing, a physiological response without overt behavior, or no measurable change depends on the receiver's history and situation as much as on acoustic structure. Laboratory and field studies have documented this variation largely in isolation, using different species, stimuli, and endpoints. We propose a receiver-centered framework that places these results on a common footing (\figref{fig:framework}). Its organizing currency is the asymmetry between the cost of missing a threat and the cost of a false alarm \citep{Nesse2005}, which sets how readily a receiver should respond and how much evidence it should require before it stops responding.
+
+\subsection{Four levels of receiver processing}
+\label{sec:synthesis-levels}
+
+The framework separates acoustic detection, biological interpretation, action selection, and updating. The separation is warranted because several of these levels have been experimentally dissociated, and a measurement taken at one level therefore cannot stand in for another.
+
+At the level of detection, receivers respond to acoustic features that need not carry species-specific meaning. Frequency-matched tones reproduce most of the amygdala discrimination between rat call types \citep{ParsanaEtAl2012a}, and sine-wave approximations lacking natural modulation suffice to elicit approach \citep{WohrSchwarting2007} (\secref{sec:q1}, \secref{sec:q3}). A differential response to two calls thus establishes discrimination of their acoustic properties, not that the receiver assigns them different biological meaning.
+
+Interpretation draws on intrinsic bias and experience in proportions that differ among systems (\secref{sec:q2}). Selective freezing to rat 22-kHz calls depends on prior aversive experience \citep{KimEtAl2010}; maternal experience extends recognition of pup calls beyond an intrinsic temporal bias \citep{SchiavoEtAl2020}; and evidence for unlearned recognition of predator calls in laboratory rodents is inconsistent across species, strains, and paradigms, with the positive result the more fragile \citep{HendrieNeill1991,KindermannEtAl2009}.
+% VERIFY: BlumsteinArmitage1997 (not full-text checked): calls track risk via call rate, not predator species.
+Field studies add dimensions that laboratory designs rarely manipulate: urgency encoded in call rate \citep{BlumsteinArmitage1997} and the reliability of individual callers, which has been manipulated only in sciurids (\secref{sec:q5}).
+
+% VERIFY: EilamEtAl1999 (not full-text checked): glucocorticoid rise in both voles and spiny mice; freezing or flight only in voles.
+% VERIFY: MongeauEtAl2003 (not full-text checked): home vs unfamiliar cage and prior shock shifted flight vs freezing to the same sweep.
+% VERIFY: BaackSwitzer2000 and JayneEtAl2015 (not full-text checked): delayed re-emergence and reduced intake in chipmunks; suppressed and delayed foraging with unchanged distance to refuge in gray squirrels.
+Interpretation, in turn, does not fix the action (\secref{sec:q4}). The same owl calls raise glucocorticoids with or without freezing or flight, depending on the species \citep{EilamEtAl1999}, and the same synthetic sweep elicits flight or freezing depending on context and prior shock \citep{MongeauEtAl2003}. Field studies measure what responding costs in delayed re-emergence and lost foraging \citep{BaackSwitzer2000,JayneEtAl2015}, the quantities that the economics of escape uses to predict which action is chosen (\secref{sec:intro-framework}). The absence of freezing is therefore weak evidence that a sound was not assessed.
+
+Neural measures do not map neatly onto a single level (\secref{sec:q3}). The same aversive noise moves dopamine in opposite directions in the nucleus accumbens and the tail of the striatum, and whether the accumbens response scales with intensity depends on the preparation \citep{FuruyamaEtAl2026,GoedhoopEtAl2022}; in a field sciurid, alarm chirps reduced rather than increased c-Fos in two regions \citep{FreemanEtAl2020}. Neural responses are best treated as evidence about which computations a receiver performs, to be interpreted alongside the behavioral level at which the corresponding decision is expressed.
+
+\begin{figure}[tbp]
+  \centering
+  \includegraphics[width=\textwidth]{fig1_framework_placeholder.png}
+  \caption{Receiver-centered framework. (A) Experiments probe four levels that can dissociate: acoustic detection, biological interpretation, action selection, and updating. Prior experience, ecological context, and caller identity and reliability shape interpretation; the relative costs of missing a threat and of a false alarm shape action selection. Double bars mark documented dissociations: amygdala neurons distinguish call types largely by frequency and without freezing \citep{ParsanaEtAl2012a}, and spiny mice show endocrine but not behavioral responses to owl calls \citep{EilamEtAl1999}. The dashed link (temporal expectation) has not been tested with natural rodent calls. (B) The same class of sound carries different meaning for receivers with different histories \citep{HendrieNeill1991,KindermannEtAl2009,KimEtAl2010,SchiavoEtAl2020,HareAtkins2001,BlumsteinEtAl2004}.}
+ 
+  \label{fig:framework}
+\end{figure}
+
+\subsection{Updating: distinguishing processes that reduce responding}
+\label{sec:synthesis-updating}
+
+% VERIFY: RankinEtAl2009 (not full-text checked): criteria (stimulus specificity, spontaneous recovery, dishabituation) distinguish habituation from fatigue and sensory adaptation.
+A declining response across repeated playbacks is among the most common results in this literature, and also among the least diagnostic. Sensory habituation, learned unreliability, falling motivational significance, and temporal expectation can all produce it, and formal habituation criteria exclude fatigue and sensory adaptation without separating these four \citep{RankinEtAl2009} (\secref{sec:q6}). The framework's contribution is to state what pattern of decline and recovery each predicts (\figref{fig:temporal}).
+
+If ecological significance slows habituation or speeds recovery, natural calls should retain or regain responsiveness relative to acoustically matched controls presented on identical schedules. One laboratory study supports this for recovery after rest \citep{EvansHammond1983a}, and a prosocial call that habituates even when it predicts social interaction shows that significance does not prevent habituation \citep{BerzEtAl2022} (\secref{sec:q6}).
+
+Reliability learning makes a different prediction: the decline should be specific to the source and should reverse when the source changes. Field sciurids track caller reliability, but in opposite directions: juvenile ground squirrels discount unreliable callers, whereas marmots respond more to them \citep{HareAtkins2001,BlumsteinEtAl2004}. We suggest in \secref{sec:q5} that the direction depends on the cost of assessing the threat independently.
+
+% VERIFY: LimaBednekoff1999 (not full-text checked): per-alarm vigilance prediction as stated.
+Temporal expectation predicts that the schedule of exposure, in addition to the number of exposures, shapes the decline. Irregular timing slows habituation to artificial sounds \citep{Davis1970,HerryEtAl2007}, but no study has compared interval distributions or used natural calls (\secref{sec:q7}). At a longer timescale, risk allocation predicts less vigilance per alarm when alarms are frequent \citep{LimaBednekoff1999} (\secref{sec:intro-framework}).
+
+\begin{figure}[tbp]
+  \centering
+  \includegraphics[width=\textwidth]{fig2_temporal_placeholder.png}
+  \caption{Hypothesized temporal dynamics of responses to repeated sounds; curves are schematic, not data. (A) Irregular timing slows within-session decline for artificial sounds \citep{Davis1970,HerryEtAl2007}; whether natural calls and matched controls diverge under each schedule is untested. (B) After rest, orienting recovered more to a loud natural distress call than to its acoustic mimic \citep{EvansHammond1983a}. (C) Receivers track caller reliability, but in opposite directions: juvenile ground squirrels discount unreliable callers \citep{HareAtkins2001}, whereas marmots respond more to them \citep{BlumsteinEtAl2004}; a change of caller restores responding \citep{Hare1998}. (D) Risk allocation predicts less vigilance per alarm when high-risk periods are frequent \citep{LimaBednekoff1999}; no rodent acoustic test exists.}
+ 
+  \label{fig:temporal}
+\end{figure}
+
+These accounts are not mutually exclusive, and a single playback series may engage all of them. The framework's value lies in specifying what each predicts: stimulus-specific decline with recovery after rest (habituation), source-specific decline with renewal when the source changes (reliability), and schedule-dependent decline at a matched number of exposures (temporal expectation). Each exposure may therefore update three quantities, the expected timing of the next sound, its expected consequence, and the reliability of its source. This is an inference across studies rather than a demonstrated result, and \secref{sec:conclusion} develops the experiments that could test it.
+
+\tabref{tab:summary-distinctions} lists the distinctions the framework must keep separate; \tabref{tab:summary-lessons} states one lesson and one open gap per question.
+
+\input{tables/summary_distinctions}
+\input{tables/summary_lessons}

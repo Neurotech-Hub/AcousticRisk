@@ -20,6 +20,7 @@ cd "${MS}"
   --citeproc \
   --resource-path=".:figures:tables" \
   --output="${OUT}" \
+  "${ROOT}/scripts/pandoc_flags.tex" \
   main.tex
 
 # Keep a copy under build/ with a stable name if pandoc wrote elsewhere.

@@ -1,16 +1,16 @@
 # Sound Danger Manuscript
 
-Question-driven neuroethology review: *When Does a Sound Mean Danger?*  
-Planning source of truth: [`docs/OUTLINE.md`](docs/OUTLINE.md).
+Outcome-first neuroethology review: *From Sound to Action: Selecting and Designing Acoustic Stimuli for Rodent Behavior*  
+Planning source of truth: [`docs/OUTLINE.md`](docs/OUTLINE.md). Prior danger-recognition outline: [`docs/OUTLINE_v1_danger.md`](docs/OUTLINE_v1_danger.md). Revision notes: [`docs/CHANGELOG_REVISION.md`](docs/CHANGELOG_REVISION.md).
 
 ## Decision: multi-file LaTeX (not one large `.tex`)
 
-The outline is structured as seven independent questions plus synthesis and conclusion. Those sections will be drafted and revised on different schedules, so the manuscript is split under `manuscript/` with one root driver (`main.tex`) and one file per section.
+The outline is structured as seven sections (intro through synthesis/experiments). Those sections are drafted and revised on different schedules, so the manuscript is split under `manuscript/` with one root driver (`main.tex`) and one file per section.
 
 | Approach | Why not / why yes |
 |---|---|
 | Single large `.tex` | Harder to review diffs, parallel editing, and selective rebuilds. |
-| **Multi-file (chosen)** | Maps 1:1 to outline parts (Q1–Q7, synthesis, conclusion); supports `\includeonly` while drafting. |
+| **Multi-file (chosen)** | Maps 1:1 to outline parts; supports `\includeonly` while drafting. |
 
 Writable prose lives only under `manuscript/`. `docs/` holds planning materials (outline, evidence notes), `agents/` holds instructions for AI drafting and review, and `literature/` holds reference PDFs; none of these are compiled. `literature/` is gitignored so published articles are not distributed.
 
@@ -35,8 +35,11 @@ SoundDangerManuscript/
 │   └── (six anchor papers)   ← full-text checks: Hendrie & Neill 1991, Kindermann 2009, Hare 1998, Hare & Atkins 2001, Evans & Hammond 1983a, Kiriazis & Slobodchikoff 2006
 ├── docs/
 │   ├── OUTLINE.md            ← conceptual plan (do not compile)
-│   ├── LITERATURE_MAP.md     ← references organized by section; keys match references.bib
-│   ├── FIGURE_PROMPTS.md     ← image-generation prompts and draft captions for placeholder figures
+│   ├── OUTLINE_v1_danger.md  ← archived Q1–Q7 outline
+│   ├── CHANGELOG_REVISION.md ← what moved/added/removed in this rewrite
+│   ├── EVIDENCE_GAPS.md      ← application/design gaps and decisive tests
+│   ├── LITERATURE_MAP.md     ← references; keys match references.bib
+│   ├── FIGURE_PROMPTS.md     ← image-generation prompts for placeholders
 │   ├── EVIDENCE.pdf          ← evidence report, round one
 │   ├── LITERATURE_SUPP01.pdf ← evidence report, round two
 │   └── LITERATURE_SUPP02.pdf ← evidence report, round three (full-text checks)
@@ -47,19 +50,23 @@ SoundDangerManuscript/
 │   │   └── abstract.tex
 │   ├── sections/
 │   │   ├── 00_introduction.tex
-│   │   ├── 01_q1_biological_meaning.tex
-│   │   ├── 02_q2_innate_vs_learned.tex
-│   │   ├── 03_q3_neural_encoding.tex
-│   │   ├── 04_q4_behavioral_expression.tex
-│   │   ├── 05_q5_learning_reliability.tex
-│   │   ├── 06_q6_habituation_recovery.tex
-│   │   ├── 07_q7_temporal_expectation.tex
-│   │   ├── 08_synthesis.tex
-│   │   └── 09_conclusion.tex
+│   │   ├── 01_acoustic_features.tex
+│   │   ├── 02_mechanisms_measures.tex
+│   │   ├── 03_stimulus_selection.tex
+│   │   ├── 04_response_persistence.tex
+│   │   ├── 05_computational_design.tex
+│   │   ├── 06_synthesis_experiments.tex
+│   │   └── _archive_v1/      ← prior Q1–Q9 drafts (not compiled)
 │   ├── figures/              ← figure assets (PDF/PNG)
 │   ├── tables/
-│   │   ├── evidence_matrix.csv  ← Table 1 source of truth (one row per study)
-│   │   └── table1_evidence.tex  ← generated; do not edit
+│   │   ├── table_comparison.tex  ← Selective cross-system comparison (main text)
+│   │   ├── table_practical.tex   ← Archived detailed params (CSV is source; not main-text)
+│   │   ├── table_features.tex    ← Table 2 feature/control checklist
+│   │   ├── practical_matrix.csv  ← Table 1 source rows
+│   │   ├── evidence_matrix.csv   ← study-level coding (supplement)
+│   │   └── table1_evidence.tex   ← generated study matrix (do not edit)
+│   ├── supplement/
+│   │   └── table_evidence_matrix.tex  ← Supplementary study matrix
 │   └── refs/
 │       └── references.bib
 └── build/                    ← generated PDF/DOCX and aux files (gitignored)
@@ -69,12 +76,13 @@ Section numbering matches the outline:
 
 | File | Outline part |
 |---|---|
-| `00_introduction` | Scope, functional framework, review approach, positioning |
-| `01`–`02` | Part I — Recognition and ecological meaning (Q1–Q2) |
-| `03`–`04` | Part II — Assessment and behavioral response (Q3–Q4) |
-| `05`–`07` | Part III — Updating responses over time (Q5–Q7) |
-| `08_synthesis` | Integrative synthesis; figures/table framing |
-| `09_conclusion` | Conclusion and future directions |
+| `00_introduction` | Outcome-first framing; lab/field/design questions |
+| `01_acoustic_features` | Manipulable dimensions; naturalness limits |
+| `02_mechanisms_measures` | Inferential ladder; what measures establish |
+| `03_stimulus_selection` | Outcome×context shortlists (lab/field) |
+| `04_response_persistence` | Habituation, reliability, timing (condensed) |
+| `05_computational_design` | Design-and-test pipeline; labeled hypotheses |
+| `06_synthesis_experiments` | Decision framework; priority experiments |
 
 ## Prerequisites
 
@@ -165,8 +173,7 @@ Find open items with `rg "% (VERIFY|MISSING)" manuscript/sections`.
 
 ## Status
 
-- Outline, literature map (three evidence rounds), bibliography (66 entries), and agent instructions are in place.
-- First drafts: `00_introduction.tex` (about 1,150 words) and `08_synthesis.tex` (about 1,350 words, Figures 1–2 as placeholders). Other section files are still placeholders.
-- Table 1 (49 studies) is built from `manuscript/tables/evidence_matrix.csv`.
-- All anchor papers are checked against the full text; the drafts have no open `% VERIFY` markers. The search-method description is deferred (end of `docs/LITERATURE_MAP.md`).
-- Target journal is undecided; journal-specific formatting is deferred.
+- **Stimulus-design revision in place:** new title/abstract, seven-section structure, Tables 1–2 in main text, study matrix in supplement. See `docs/CHANGELOG_REVISION.md` and `docs/EVIDENCE_GAPS.md`.
+- Literature map (three evidence rounds) and bibliography retained; open `% VERIFY` markers remain where full-text checks are incomplete.
+- Figures 1–4 are placeholders; redraw as vector art before submission.
+- Target journal undecided; search-method and disclosure statements deferred.

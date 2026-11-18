@@ -1,0 +1,28 @@
+context,species,desired_outcome,stimulus_comparison,acoustic_params,receiver_context,measured_endpoint,effect_direction_magnitude,persistence,status,key_ref,limitation
+lab,Rat,Selective freezing,Partner 22-kHz vs naive receivers,USV band; SPL NR,Footshock-experienced,Freezing,Positive under prior aversive experience,Not primary metric,positive,KimEtAl2010,Experience-dependent; not innate freezing
+lab,Rat,Selective freezing,Natural 22-kHz (single stim.),USV; bands compared,Naive,Defense/freezing,Null for selective freezing to natural calls alone,—,null,EndresEtAl2007,Pooled 22-kHz-range can increase freezing separately
+lab,Rat,Freezing (pooled band),Pooled 22-kHz-range stimuli,22-kHz range,Naive,Freezing,Positive for pooled band,Learned fear unusually persistent,positive,EndresEtAl2007,Not selective natural-call freezing
+lab,Rat,Locomotion / HR,22-/50-kHz vs tones,SPL NR,Paired/single housed,Locomotion; HR; vocal,Positive directional change vs tones,—,positive,OlszynskiEtAl2020,Housing modulates magnitude
+lab,Rat,Approach + NAc DA,50-kHz vs 22-kHz vs noise,~69 dB; 15 s; 1–2 min ISI,Food-restricted,Approach; DA,Positive for 50-kHz vs matched noise,Rapid decline across reps,positive,WilluhnEtAl2014,Does not establish field sciurid attraction
+lab,Rat,Approach,50-kHz sine approx. vs natural,USV; modulation removed,Juvenile/adult,Approach,Positive (esp. adults),—,positive,WohrSchwarting2007,Sine approx. lacks natural FM/AM
+lab,Rat,Maintained approach,50-kHz + social contingency,Params NR,Lab,Approach over reps,Approach present but declines,Habituates despite contingency,mixed,BerzEtAl2022,Persistence limit
+lab,Mouse,Flight vs freezing,17–20 kHz FM sweeps,85 dB,±shock; cage context,Flight; freezing,Positive state-dependent shift,—,positive,MongeauEtAl2003,Synthetic sweep not natural call
+lab,Mouse DBA/2,Defense / feeding,Owl vs non-predator calls,60–70 dB; 2 min,Predator-naive,Defense; intake ↓~half,Positive in this paradigm,—,mixed,HendrieNeill1991,Later untreated DBA/2 nulls reported
+lab,"Mouse/rat/gerbil",Uncond. defense,Owl/raptor vs non-predator,70–80 dB peak; 0.3–9 kHz,Predator-naive,Freezing/defense,Null,—,null,KindermannEtAl2009,Null under this paradigm
+lab,Rat,Orienting,Distress squeal vs timing mimic,80 or 100 dB,Lab-reared,Lick suppression,Natural > mimic at 100 not 80 dB,Greater recovery to loud natural after rest,mixed,EvansHammond1983a,Level-dependent
+lab,Rat,Startle vs schedule,Tones; regular vs variable ISI,Mean ISI 8 s (Exp II),Naive,Startle amplitude,Regular > variable habituation,Within-session schedule effect,positive,Davis1970,Artificial tones; not threat assessment
+lab,Rat,Caller preference,Stranger vs cagemate 50-kHz,USV; self-admin.,Lab,Choice; cocaine intake,Positive stranger preference,—,positive,VielleEtAl2021,Appetitive identity not reliability
+lab,Prairie vole,Partner discrim.,Partner vs stranger calls,Params NR,Pair-bonded females,Preference,Positive,—,positive,WarrenEtAl2025,VERIFY not full-text checked
+field,Yellow-bellied marmot,Graded vigilance,Alarms varying in rate,Rate/amplitude; SPL NR,Free-living,Vigilance,Positive rate as risk info,—,positive,BlumsteinArmitage1997,Multi-session persistence NR
+field,Yellow-bellied marmot,Foraging suppress,Alarms + nonlinear noise,Added roughness,Free-living,Foraging,Positive suppression,—,positive,BlumsteinRecapet2009,Persistence across days NR
+field,Richardson's ground squirrel,Vigilance by type,Chirps/whistles/chucks,Params NR,Free-living,Vigilance,Positive by call type,—,positive,SloanEtAl2005,Params NR
+field,Gunnison's prairie dog,Escape topography,Human/dog/coyote alarms,11 s; 45 dB at 50 m,Free-living,Escape acts,Positive predator-specific escape,—,positive,KiriazisSlobodchikoff2006,Hawk-associated calls not tested
+field,Eastern chipmunk,Foraging disrupt,Conspecific alarms,Params NR,Free-living adults,Vigil.; intake; latency,Positive,—,positive,BaackSwitzer2000,VERIFY; multi-day NR
+field,Eastern gray squirrel,Foraging disrupt,Predator calls,Params NR,Free-living,Vigil.; foraging,Positive; refuge distance unchanged,—,positive,JayneEtAl2015,VERIFY; multi-day NR
+field,Marmot; GMGS,Heterospec. vig.,Conspec./heterospec. alarms,Vs birdsong,Free-living,Vigilance,Positive,—,positive,Shriner1998,VERIFY
+field,Eastern gray squirrel,Eavesdropping,Familiar/similar bird alarms,Vs dissimilar alarm,Free-living,Vigilance,Positive,—,positive,GetschowEtAl2013,—
+field,Eastern gray squirrel,Safety recovery,Hawk then bird chatter,Vs ambient noise,Free-living,Vigilance ↓,Positive recovery facilitation,—,positive,LillyEtAl2019,Safety cue not deterrence
+field,Richardson's ground squirrel,Caller renewal,Repeated chirps; caller switch,84–91 dB; ~3 min ISI,Juvenile females,Vigilance,Positive renewal on caller change,Within-bout decline then renewal,positive,Hare1998,—
+field,Richardson's ground squirrel,Reliability discount,Unreliable vs reliable caller,84–91 dB; 10 exemplars,Juvenile females,Posture,Positive discounting of unreliable,Decline by pb 5–10,positive,HareAtkins2001,Duration trend only
+field,Yellow-bellied marmot,Reliability scrutinize,Unreliable callers,Params NR,Free-living,Foraging/vigil.,Positive increase to unreliable,—,positive,BlumsteinEtAl2004,Opposite direction vs ground squirrels
+semi,Vole vs spiny mouse,Defense vs endocrine,Owl calls,Params NR,Wild-caught,Behavior; steroids,Mixed: vole defense+cort; spiny cortisol only,—,mixed,EilamEtAl1999,Species dissociation

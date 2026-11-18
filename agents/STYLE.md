@@ -73,14 +73,13 @@ Avoid: cognitive metaphors, rhetorical openings, and treating a neural signal as
 
 | Manuscript section | Model |
 |---|---|
-| Introduction and functional framework (`00`) | Blumstein |
-| Q1 biological meaning, Q2 innate vs learned (`01`, `02`) | Magrath |
-| Q3 neural measures (`03`) | Watabe-Uchida |
-| Q4 behavioral response (`04`) | Magrath + Blumstein |
-| Q5 experience and reliability (`05`) | Magrath |
-| Q6 habituation and recovery (`06`) | Magrath + Blumstein |
-| Q7 temporal predictability (`07`) | Watabe-Uchida + Blumstein |
-| Synthesis and conclusion (`08`, `09`) | Blumstein |
+| Introduction (`00`) | Blumstein |
+| Acoustic features (`01`) | Magrath |
+| Mechanisms and measures (`02`) | Watabe-Uchida + Magrath |
+| Stimulus selection (`03`) | Magrath + Blumstein |
+| Response persistence (`04`) | Magrath + Blumstein |
+| Computational design (`05`) | Blumstein (predictions; label hypotheses) |
+| Synthesis and experiments (`06`) | Blumstein |
 
 Magrath sets the default register; Blumstein supplies theoretical structure; Watabe-Uchida supplies mechanistic discipline.
 

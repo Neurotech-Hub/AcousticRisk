@@ -1,8 +1,10 @@
 # Published literature (copyrighted PDFs; not distributed)
 literature/
 
-# Build products
-build/
+# Build intermediates (deliverables in build/ are tracked)
+build/*
+!build/SoundDanger.pdf
+!build/SoundDanger.docx
 *.aux
 *.bbl
 *.blg
@@ -24,3 +26,6 @@ build/
 *~
 .idea/
 .vscode/
+
+# Local figure-generation venv
+.venv_figs/
