@@ -49,7 +49,7 @@ export function Intro() {
           </p>
           <div className="hero-cta">
             <a className="btn-quiet" href={PREPRINT_URL} target="_blank" rel="noreferrer">
-              Read the preprint <Icon name="external" size={14} />
+              Download the PDF <Icon name="external" size={14} />
             </a>
           </div>
         </div>
