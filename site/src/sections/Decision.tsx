@@ -22,7 +22,7 @@ const f2 = (x: number) => x.toFixed(2);
 const sign = (x: number) => (x >= 0 ? '+' : '\u2212') + Math.abs(x).toFixed(2);
 
 const PRESETS: { id: string; label: string; danger?: number; ctx: Context }[] = [
-  { id: 'field', label: 'Near the burrow', danger: 0.05, ctx: { ...FIELD_CONTEXT, refuge: 0 } },
+  { id: 'field', label: 'Near the burrow', danger: 0.5, ctx: { ...FIELD_CONTEXT, refuge: 0 } },
   { id: 'exposed', label: 'Exposed and hungry', ctx: EXPOSED_CONTEXT },
   { id: 'lab', label: 'Lab enclosure', ctx: LAB_CONTEXT },
 ];
