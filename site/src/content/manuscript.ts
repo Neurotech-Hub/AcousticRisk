@@ -1,6 +1,6 @@
 import refsJson from './refs.json';
 
-export const PREPRINT_URL = 'https://www.preprints.org/manuscript/202611.2187';
+export const PREPRINT_URL = 'https://www.preprints.org/frontend/manuscript/d26a438f6996f63bee63cfbd1ef6d042/download_pub';
 export const REPO_URL = 'https://github.com/Neurotech-Hub/AcousticRisk';
 
 export const TITLE = 'Interpreting Acoustic Risk: Integrating Field Ethology and Laboratory Neuroscience in Rodents';

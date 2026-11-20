@@ -2,7 +2,7 @@
 
 *From Sound to Action: Selecting and Designing Acoustic Stimuli for Rodent Behavior*
 
-**Preprint:** [https://www.preprints.org/manuscript/202611.2187](https://www.preprints.org/manuscript/202611.2187)
+**Preprint PDF:** [download](https://www.preprints.org/frontend/manuscript/d26a438f6996f63bee63cfbd1ef6d042/download_pub)
 
 Sources live under `manuscript/`. Planning notes are in `docs/`. Published PDFs in `literature/` are gitignored.
 
