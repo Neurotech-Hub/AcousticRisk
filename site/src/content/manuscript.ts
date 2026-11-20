@@ -1,7 +1,7 @@
 import refsJson from './refs.json';
 
 export const PREPRINT_URL = 'https://www.preprints.org/manuscript/202611.2187';
-export const REPO_URL = 'https://github.com/Neurotech-Hub/SoundDangerManuscript';
+export const REPO_URL = 'https://github.com/Neurotech-Hub/AcousticRisk';
 
 export const TITLE = 'Interpreting Acoustic Risk: Integrating Field Ethology and Laboratory Neuroscience in Rodents';
 export const AUTHOR = 'Matt Gaidica';

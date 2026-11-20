@@ -35,7 +35,7 @@ Edit `.tex` / CSV sources under `manuscript/`, then rebuild. Do not edit files i
 
 ## Companion site
 
-An interactive companion, *Interpreting Acoustic Risk*: **https://neurotech-hub.github.io/SoundDangerManuscript/**
+An interactive companion, *Interpreting Acoustic Risk*: **https://neurotech-hub.github.io/AcousticRisk/**
 
 It lives in `site/` (Vite + React + TypeScript). It reads `manuscript/refs/references.bib` for its citations and `brand/` for the logo, so rebuild picks up changes to either.
 
