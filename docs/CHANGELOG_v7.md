@@ -1,6 +1,6 @@
 # Change log — v6 → v7 (corrective scholarly revision)
 
-Source: `SoundDanger_v6_Scholarly_Review_Correction_Spec.md`.
+Source: scholarly review correction specification.
 
 **Direction change:** Restore a publishable scientific review of acoustic meaning in rodent receivers. Remove how-to, selection-matrix, optimization, and device framing introduced when earlier specs were overinterpreted as engineering guidance.
 

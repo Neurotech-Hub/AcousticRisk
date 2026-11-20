@@ -5,7 +5,7 @@ set -euo pipefail
 
 ROOT="$(cd "$(dirname "$0")/.." && pwd)"
 MS="${ROOT}/manuscript"
-OUT="${1:-${ROOT}/build/SoundDanger.docx}"
+OUT="${1:-${ROOT}/build/AcousticRisk.docx}"
 BUILD="${ROOT}/build"
 
 mkdir -p "$(dirname "$OUT")" "${BUILD}"

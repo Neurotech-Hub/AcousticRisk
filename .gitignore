@@ -3,8 +3,8 @@ literature/
 
 # Build intermediates (deliverables in build/ are tracked)
 build/*
-!build/SoundDanger.pdf
-!build/SoundDanger.docx
+!build/AcousticRisk.pdf
+!build/AcousticRisk.docx
 *.aux
 *.bbl
 *.blg

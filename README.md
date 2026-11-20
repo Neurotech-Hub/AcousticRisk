@@ -1,4 +1,4 @@
-# Sound Danger Manuscript
+# AcousticRisk
 
 *From Sound to Action: Selecting and Designing Acoustic Stimuli for Rodent Behavior*
 
@@ -16,8 +16,8 @@ Sources live under `manuscript/`. Planning notes are in `docs/`. Published PDFs 
 From the repository root:
 
 ```bash
-make pdf    # → build/SoundDanger.pdf
-make docx   # → build/SoundDanger.docx
+make pdf    # → build/AcousticRisk.pdf
+make docx   # → build/AcousticRisk.docx
 make all
 make clean
 ```

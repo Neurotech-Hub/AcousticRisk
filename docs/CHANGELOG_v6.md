@@ -1,6 +1,6 @@
 # Change log — v5 → v6 (targeted revision)
 
-Source: `SoundDanger_v5_Targeted_Revision_Spec.md`. Seven-section architecture retained; no broad reorg.
+Source: targeted revision specification. Seven-section architecture retained; no broad reorg.
 
 ## P0 — Computational design (§6)
 

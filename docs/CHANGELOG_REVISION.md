@@ -1,6 +1,6 @@
 # Change log — danger recognition → stimulus design revision
 
-Source of architectural requirements: revision specification *SoundDanger(4)*. Prior outline archived as [`OUTLINE_v1_danger.md`](OUTLINE_v1_danger.md). Prior section drafts archived under `manuscript/sections/_archive_v1/`.
+Source of architectural requirements: revision specification (round 4). Prior outline archived as [`OUTLINE_v1_danger.md`](OUTLINE_v1_danger.md). Prior section drafts archived under `manuscript/sections/_archive_v1/`.
 
 ## Retained (remapped)
 

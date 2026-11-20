@@ -1,6 +1,6 @@
 # Change log — v7 → v8 (physiology literature integration)
 
-Source: `SoundDanger_v7_Physiology_Literature_Integration_Spec.md` + `docs/LITERATURE_SUPP03.pdf` (literature map).
+Source: physiology/literature integration revision spec + `docs/LITERATURE_SUPP03.pdf` (literature map).
 
 ## Direction preserved
 

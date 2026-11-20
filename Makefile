@@ -1,7 +1,7 @@
-# Sound Danger manuscript build
+# AcousticRisk manuscript build
 # Usage (from repository root):
-#   make pdf    → build/SoundDanger.pdf
-#   make docx   → build/SoundDanger.docx
+#   make pdf    → build/AcousticRisk.pdf
+#   make docx   → build/AcousticRisk.docx
 #   make all    → both
 #   make clean  → remove build artifacts
 
@@ -11,8 +11,8 @@ BUILD       := $(ROOT)/build
 MAIN        := main
 TEX         := $(MS)/$(MAIN).tex
 
-PDF_OUT     := $(BUILD)/SoundDanger.pdf
-DOCX_OUT    := $(BUILD)/SoundDanger.docx
+PDF_OUT     := $(BUILD)/AcousticRisk.pdf
+DOCX_OUT    := $(BUILD)/AcousticRisk.docx
 
 LATEXMK     := latexmk
 PANDOC      := pandoc
