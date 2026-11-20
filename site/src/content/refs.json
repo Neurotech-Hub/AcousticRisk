@@ -1,0 +1,1533 @@
+{
+ "Davis1970": {
+  "key": "Davis1970",
+  "authors": [
+   "Davis, Michael"
+  ],
+  "year": "1970",
+  "title": "Effects of interstimulus interval length and variability on startle-response habituation in the rat.",
+  "venue": "Journal of Comparative and Physiological Psychology",
+  "volume": "72",
+  "pages": "177–192",
+  "doi": "10.1037/h0029472",
+  "short": "Davis 1970"
+ },
+ "EvansHammond1983a": {
+  "key": "EvansHammond1983a",
+  "authors": [
+   "Evans, John G. M.",
+   "Hammond, Geoffrey R."
+  ],
+  "year": "1983",
+  "title": "Habituation and recovery of orienting in rats as a function of stimulus significance",
+  "venue": "Animal Learning & Behavior",
+  "volume": "11",
+  "pages": "424–430",
+  "doi": "10.3758/bf03199797",
+  "short": "Evans & Hammond 1983"
+ },
+ "EvansHammond1983b": {
+  "key": "EvansHammond1983b",
+  "authors": [
+   "Evans, John G. M.",
+   "Hammond, Geoffrey R."
+  ],
+  "year": "1983",
+  "title": "Differential generalization of habituation across contexts as a function of stimulus significance",
+  "venue": "Animal Learning & Behavior",
+  "volume": "11",
+  "pages": "431–434",
+  "doi": "10.3758/bf03199798",
+  "short": "Evans & Hammond 1983"
+ },
+ "YdenbergDill1986": {
+  "key": "YdenbergDill1986",
+  "authors": [
+   "Ydenberg, Ronald C.",
+   "Dill, Lawrence M."
+  ],
+  "year": "1986",
+  "title": "The Economics of Fleeing from Predators",
+  "venue": "Advances in the Study of Behavior",
+  "volume": "16",
+  "pages": "229–249",
+  "doi": "10.1016/s0065-3454(08)60192-8",
+  "short": "Ydenberg & Dill 1986"
+ },
+ "DillHoutman1989": {
+  "key": "DillHoutman1989",
+  "authors": [
+   "Dill, Lawrence M.",
+   "Houtman, Robert"
+  ],
+  "year": "1989",
+  "title": "The influence of distance to refuge on flight initiation distance in the gray squirrel (Sciurus carolinensis)",
+  "venue": "Canadian Journal of Zoology",
+  "volume": "67",
+  "pages": "233–235",
+  "doi": "10.1139/z89-033",
+  "short": "Dill & Houtman 1989"
+ },
+ "Helfman1989": {
+  "key": "Helfman1989",
+  "authors": [
+   "Helfman, G. S."
+  ],
+  "year": "1989",
+  "title": "Threat-sensitive predator avoidance in damselfish-trumpetfish interactions",
+  "venue": "Behavioral Ecology and Sociobiology",
+  "volume": "24",
+  "pages": "47–58",
+  "doi": "10.1007/bf00300117",
+  "short": "Helfman 1989"
+ },
+ "HendrieNeill1991": {
+  "key": "HendrieNeill1991",
+  "authors": [
+   "Hendrie, C.A.",
+   "Neill, J.C."
+  ],
+  "year": "1991",
+  "title": "Exposure to the calls of predators of mice activates defensive mechanisms and inhibits consummatory behaviour in an inbred mouse strain",
+  "venue": "Neuroscience & Biobehavioral Reviews",
+  "volume": "15",
+  "pages": "479–482",
+  "doi": "10.1016/s0149-7634(05)80135-6",
+  "short": "Hendrie & Neill 1991"
+ },
+ "Mateo1996": {
+  "key": "Mateo1996",
+  "authors": [
+   "Mateo, Jill M."
+  ],
+  "year": "1996",
+  "title": "Early auditory experience and the ontogeny of alarm-call discrimination in Belding's ground squirrels (Spermophilus beldingi).",
+  "venue": "Journal of Comparative Psychology",
+  "volume": "110",
+  "pages": "115–124",
+  "doi": "10.1037/0735-7036.110.2.115",
+  "short": "Mateo 1996"
+ },
+ "BlumsteinArmitage1997": {
+  "key": "BlumsteinArmitage1997",
+  "authors": [
+   "Blumstein, Daniel T.",
+   "Armitage, Kenneth B."
+  ],
+  "year": "1997",
+  "title": "Alarm calling in yellow-bellied marmots: I. The meaning of situationally variable alarm calls",
+  "venue": "Animal Behaviour",
+  "volume": "53",
+  "pages": "143–171",
+  "doi": "10.1006/anbe.1996.0285",
+  "short": "Blumstein & Armitage 1997"
+ },
+ "Hare1998": {
+  "key": "Hare1998",
+  "authors": [
+   "Hare, James F"
+  ],
+  "year": "1998",
+  "title": "Juvenile Richardson's ground squirrels, Spermophilus richardsonii, discriminate among individual alarm callers",
+  "venue": "Animal Behaviour",
+  "volume": "55",
+  "pages": "451–460",
+  "doi": "10.1006/anbe.1997.0613",
+  "short": "Hare 1998"
+ },
+ "HendrieEtAl1998": {
+  "key": "HendrieEtAl1998",
+  "authors": [
+   "Hendrie, Colin A.",
+   "Weiss, Scott M.",
+   "Eilam, David"
+  ],
+  "year": "1998",
+  "title": "Behavioural response of wild rodents to the calls of an owl: a comparative study",
+  "venue": "Journal of Zoology",
+  "volume": "245",
+  "pages": "439–446",
+  "doi": "10.1111/j.1469-7998.1998.tb00118.x",
+  "short": "Hendrie et al. 1998"
+ },
+ "Shriner1998": {
+  "key": "Shriner1998",
+  "authors": [
+   "Shriner, Walter McKee"
+  ],
+  "year": "1998",
+  "title": "Yellow-bellied marmot and golden-mantled ground squirrel responses to heterospecific alarm calls",
+  "venue": "Animal Behaviour",
+  "volume": "55",
+  "pages": "529–536",
+  "doi": "10.1006/anbe.1997.0623",
+  "short": "Shriner 1998"
+ },
+ "EilamEtAl1999": {
+  "key": "EilamEtAl1999",
+  "authors": [
+   "Eilam, David",
+   "Dayan, Tamar",
+   "Ben-Eliyahu, Shamgar",
+   "Schulman, Ifat",
+   "Shefer, Gabi",
+   "Hendrie, Colin A."
+  ],
+  "year": "1999",
+  "title": "Differential behavioural and hormonal responses of voles and spiny mice to owl calls",
+  "venue": "Animal Behaviour",
+  "volume": "58",
+  "pages": "1085–1093",
+  "doi": "10.1006/anbe.1999.1224",
+  "short": "Eilam et al. 1999"
+ },
+ "LimaBednekoff1999": {
+  "key": "LimaBednekoff1999",
+  "authors": [
+   "Lima, Steven L.",
+   "Bednekoff, Peter A."
+  ],
+  "year": "1999",
+  "title": "Temporal Variation in Danger Drives Antipredator Behavior: The Predation Risk Allocation Hypothesis",
+  "venue": "The American Naturalist",
+  "volume": "153",
+  "pages": "649–659",
+  "doi": "10.1086/303202",
+  "short": "Lima & Bednekoff 1999"
+ },
+ "BaackSwitzer2000": {
+  "key": "BaackSwitzer2000",
+  "authors": [
+   "Baack, Jessica K.",
+   "Switzer, Paul V."
+  ],
+  "year": "2000",
+  "title": "Alarm Calls Affect Foraging Behavior in Eastern Chipmunks (Tamias striatus, Rodentia: Sciuridae)",
+  "venue": "Ethology",
+  "volume": "106",
+  "pages": "1057–1066",
+  "doi": "10.1046/j.1439-0310.2000.00619.x",
+  "short": "Baack & Switzer 2000"
+ },
+ "HareAtkins2001": {
+  "key": "HareAtkins2001",
+  "authors": [
+   "Hare, James",
+   "Atkins, Brent"
+  ],
+  "year": "2001",
+  "title": "The squirrel that cried wolf: reliability detection by juvenile Richardson's ground squirrels ( Spermophilus richardsonii )",
+  "venue": "Behavioral Ecology and Sociobiology",
+  "volume": "51",
+  "pages": "108–112",
+  "doi": "10.1007/s002650100414",
+  "short": "Hare & Atkins 2001"
+ },
+ "MongeauEtAl2003": {
+  "key": "MongeauEtAl2003",
+  "authors": [
+   "Mongeau, Raymond",
+   "Miller, Gabriel A.",
+   "Chiang, Elizabeth",
+   "Anderson, David J."
+  ],
+  "year": "2003",
+  "title": "Neural Correlates of Competing Fear Behaviors Evoked by an Innately Aversive Stimulus",
+  "venue": "The Journal of Neuroscience",
+  "volume": "23",
+  "pages": "3855–3868",
+  "doi": "10.1523/jneurosci.23-09-03855.2003",
+  "short": "Mongeau et al. 2003"
+ },
+ "BlumsteinDaniel2004": {
+  "key": "BlumsteinDaniel2004",
+  "authors": [
+   "Blumstein, Daniel T.",
+   "Daniel, Janice C."
+  ],
+  "year": "2004",
+  "title": "Yellow-bellied marmots discriminate between the alarm calls of individuals and are more responsive to calls from juveniles",
+  "venue": "Animal Behaviour",
+  "volume": "68",
+  "pages": "1257–1265",
+  "doi": "10.1016/j.anbehav.2003.12.024",
+  "short": "Blumstein & Daniel 2004"
+ },
+ "BlumsteinEtAl2004": {
+  "key": "BlumsteinEtAl2004",
+  "authors": [
+   "Blumstein, Daniel T.",
+   "Verneyre, Laure",
+   "Daniel, Janice C."
+  ],
+  "year": "2004",
+  "title": "Reliability and the adaptive utility of discrimination among alarm callers",
+  "venue": "Proceedings of the Royal Society of London. Series B: Biological Sciences",
+  "volume": "271",
+  "pages": "1851–1857",
+  "doi": "10.1098/rspb.2004.2808",
+  "short": "Blumstein et al. 2004"
+ },
+ "Nesse2005": {
+  "key": "Nesse2005",
+  "authors": [
+   "Nesse, Randolph M."
+  ],
+  "year": "2005",
+  "title": "Natural selection and the regulation of defenses",
+  "venue": "Evolution and Human Behavior",
+  "volume": "26",
+  "pages": "88–105",
+  "doi": "10.1016/j.evolhumbehav.2004.08.002",
+  "short": "Nesse 2005"
+ },
+ "SloanEtAl2005": {
+  "key": "SloanEtAl2005",
+  "authors": [
+   "Sloan, Jennifer L.",
+   "Wilson, David R.",
+   "Hare, James F."
+  ],
+  "year": "2005",
+  "title": "Functional morphology of Richardson's ground squirrel, Spermophilus richardsonii, alarm calls: the meaning of chirps, whistles and chucks",
+  "venue": "Animal Behaviour",
+  "volume": "70",
+  "pages": "937–944",
+  "doi": "10.1016/j.anbehav.2005.01.013",
+  "short": "Sloan et al. 2005"
+ },
+ "Blumstein2006": {
+  "key": "Blumstein2006",
+  "authors": [
+   "Blumstein, Daniel T."
+  ],
+  "year": "2006",
+  "title": "The Multipredator Hypothesis and the Evolutionary Persistence of Antipredator Behavior",
+  "venue": "Ethology",
+  "volume": "112",
+  "pages": "209–217",
+  "doi": "10.1111/j.1439-0310.2006.01209.x",
+  "short": "Blumstein 2006"
+ },
+ "KiriazisSlobodchikoff2006": {
+  "key": "KiriazisSlobodchikoff2006",
+  "authors": [
+   "Kiriazis, Judith",
+   "Slobodchikoff, C.N."
+  ],
+  "year": "2006",
+  "title": "Perceptual specificity in the alarm calls of Gunnison's prairie dogs",
+  "venue": "Behavioural Processes",
+  "volume": "73",
+  "pages": "29–35",
+  "doi": "10.1016/j.beproc.2006.01.015",
+  "short": "Kiriazis & Slobodchikoff 2006"
+ },
+ "SloanHare2006": {
+  "key": "SloanHare2006",
+  "authors": [
+   "Sloan, Jennifer L.",
+   "Hare, James F."
+  ],
+  "year": "2006",
+  "title": "Adult Richardson's Ground Squirrels (Spermophilus richardsonii) Ignore Rate Changes in Juvenile Alarm Calls: Age‐Differential Response Urgency Perception?",
+  "venue": "Ethology",
+  "volume": "112",
+  "pages": "896–902",
+  "doi": "10.1111/j.1439-0310.2006.01235.x",
+  "short": "Sloan & Hare 2006"
+ },
+ "EndresEtAl2007": {
+  "key": "EndresEtAl2007",
+  "authors": [
+   "Endres, T",
+   "Widmann, K",
+   "Fendt, M"
+  ],
+  "year": "2007",
+  "title": "Are rats predisposed to learn 22kHz calls as danger-predicting signals?",
+  "venue": "Behavioural Brain Research",
+  "volume": "185",
+  "pages": "69–75",
+  "doi": "10.1016/j.bbr.2007.07.012",
+  "short": "Endres et al. 2007"
+ },
+ "HerryEtAl2007": {
+  "key": "HerryEtAl2007",
+  "authors": [
+   "Herry, Cyril",
+   "Bach, Dominik R.",
+   "Esposito, Fabrizio",
+   "Di Salle, Francesco",
+   "Perrig, Walter J.",
+   "Scheffler, Klaus",
+   "Lüthi, Andreas",
+   "Seifritz, Erich"
+  ],
+  "year": "2007",
+  "title": "Processing of Temporal Unpredictability in Human and Animal Amygdala",
+  "venue": "The Journal of Neuroscience",
+  "volume": "27",
+  "pages": "5958–5966",
+  "doi": "10.1523/jneurosci.5218-06.2007",
+  "short": "Herry et al. 2007"
+ },
+ "WohrSchwarting2007": {
+  "key": "WohrSchwarting2007",
+  "authors": [
+   "Wöhr, Markus",
+   "Schwarting, Rainer K. W."
+  ],
+  "year": "2007",
+  "title": "Ultrasonic Communication in Rats: Can Playback of 50-kHz Calls Induce Approach Behavior?",
+  "venue": "PLoS ONE",
+  "volume": "2",
+  "pages": "e1365",
+  "doi": "10.1371/journal.pone.0001365",
+  "short": "Wöhr & Schwarting 2007"
+ },
+ "SadanandaEtAl2008": {
+  "key": "SadanandaEtAl2008",
+  "authors": [
+   "Sadananda, Monika",
+   "Wöhr, Markus",
+   "Schwarting, Rainer K.W."
+  ],
+  "year": "2008",
+  "title": "Playback of 22-kHz and 50-kHz ultrasonic vocalizations induces differential c-fos expression in rat brain",
+  "venue": "Neuroscience Letters",
+  "volume": "435",
+  "pages": "17–23",
+  "doi": "10.1016/j.neulet.2008.02.002",
+  "short": "Sadananda et al. 2008"
+ },
+ "SchmidtEtAl2008": {
+  "key": "SchmidtEtAl2008",
+  "authors": [
+   "Schmidt, Kenneth A.",
+   "Lee, Eunice",
+   "Ostfeld, Richard S.",
+   "Sieving, Kathryn"
+  ],
+  "year": "2008",
+  "title": "Eastern chipmunks increase their perception of predation risk in response to titmouse alarm calls",
+  "venue": "Behavioral Ecology",
+  "volume": "19",
+  "pages": "759–763",
+  "doi": "10.1093/beheco/arn034",
+  "short": "Schmidt et al. 2008"
+ },
+ "SwanHare2008": {
+  "key": "SwanHare2008",
+  "authors": [
+   "Swan, David C.",
+   "Hare, James F."
+  ],
+  "year": "2008",
+  "title": "The first cut is the deepest: primary syllables of Richardson's ground squirrel, Spermophilus richardsonii, repeated calls alert receivers",
+  "venue": "Animal Behaviour",
+  "volume": "76",
+  "pages": "47–54",
+  "doi": "10.1016/j.anbehav.2007.11.008",
+  "short": "Swan & Hare 2008"
+ },
+ "BlumsteinRecapet2009": {
+  "key": "BlumsteinRecapet2009",
+  "authors": [
+   "Blumstein, Daniel T.",
+   "Récapet, Charlotte"
+  ],
+  "year": "2009",
+  "title": "The Sound of Arousal: The Addition of Novel Non‐linearities Increases Responsiveness in Marmot Alarm Calls",
+  "venue": "Ethology",
+  "volume": "115",
+  "pages": "1074–1081",
+  "doi": "10.1111/j.1439-0310.2009.01691.x",
+  "short": "Blumstein & Récapet 2009"
+ },
+ "KindermannEtAl2009": {
+  "key": "KindermannEtAl2009",
+  "authors": [
+   "Kindermann, Teresa",
+   "Siemers, Björn M.",
+   "Fendt, Markus"
+  ],
+  "year": "2009",
+  "title": "Innate or learned acoustic recognition of avian predators in rodents?",
+  "venue": "Journal of Experimental Biology",
+  "volume": "212",
+  "pages": "506–513",
+  "doi": "10.1242/jeb.024174",
+  "short": "Kindermann et al. 2009"
+ },
+ "RankinEtAl2009": {
+  "key": "RankinEtAl2009",
+  "authors": [
+   "Rankin, Catharine H.",
+   "Abrams, Thomas",
+   "Barry, Robert J.",
+   "Bhatnagar, Seema",
+   "Clayton, David F.",
+   "Colombo, John",
+   "Coppola, Gianluca",
+   "Geyer, Mark A.",
+   "Glanzman, David L.",
+   "Marsland, Stephen",
+   "McSweeney, Frances K.",
+   "Wilson, Donald A.",
+   "Wu, Chun-Fang",
+   "Thompson, Richard F."
+  ],
+  "year": "2009",
+  "title": "Habituation revisited: An updated and revised description of the behavioral characteristics of habituation",
+  "venue": "Neurobiology of Learning and Memory",
+  "volume": "92",
+  "pages": "135–138",
+  "doi": "10.1016/j.nlm.2008.09.012",
+  "short": "Rankin et al. 2009"
+ },
+ "KimEtAl2010": {
+  "key": "KimEtAl2010",
+  "authors": [
+   "Kim, Eun Joo",
+   "Kim, Earnest S.",
+   "Covey, Ellen",
+   "Kim, Jeansok J."
+  ],
+  "year": "2010",
+  "title": "Social Transmission of Fear in Rats: The Role of 22-kHz Ultrasonic Distress Vocalization",
+  "venue": "PLoS ONE",
+  "volume": "5",
+  "pages": "e15077",
+  "doi": "10.1371/journal.pone.0015077",
+  "short": "Kim et al. 2010"
+ },
+ "Mateo2010": {
+  "key": "Mateo2010",
+  "authors": [
+   "Mateo, Jill M."
+  ],
+  "year": "2010",
+  "title": "Alarm calls elicit predator-specific physiological responses",
+  "venue": "Biology Letters",
+  "volume": "6",
+  "pages": "623–625",
+  "doi": "10.1098/rsbl.2010.0118",
+  "short": "Mateo 2010"
+ },
+ "AschemeierMaher2011": {
+  "key": "AschemeierMaher2011",
+  "authors": [
+   "Aschemeier, Lisa M.",
+   "Maher, Christine R."
+  ],
+  "year": "2011",
+  "title": "Eavesdropping of woodchucks (Marmota monax) and eastern chipmunks (Tamias striatus) on heterospecific alarm calls",
+  "venue": "Journal of Mammalogy",
+  "volume": "92",
+  "pages": "493–499",
+  "doi": "10.1644/09-mamm-a-322.1",
+  "short": "Aschemeier & Maher 2011"
+ },
+ "HareWarkentin2012": {
+  "key": "HareWarkentin2012",
+  "authors": [
+   "Hare, James F.",
+   "Warkentin, Kurtis J."
+  ],
+  "year": "2012",
+  "title": "The song remains the same: Juvenile Richardson’s ground squirrels do not respond differentially to mother’s or colony member’s alarm calls",
+  "venue": "Current Zoology",
+  "volume": "58",
+  "pages": "773–780",
+  "doi": "10.1093/czoolo/58.5.773",
+  "short": "Hare & Warkentin 2012"
+ },
+ "ParsanaEtAl2012a": {
+  "key": "ParsanaEtAl2012a",
+  "authors": [
+   "Parsana, Ashwini J.",
+   "Li, Nanxin",
+   "Brown, Thomas H."
+  ],
+  "year": "2012",
+  "title": "Positive and negative ultrasonic social signals elicit opposing firing patterns in rat amygdala",
+  "venue": "Behavioural Brain Research",
+  "volume": "226",
+  "pages": "77–86",
+  "doi": "10.1016/j.bbr.2011.08.040",
+  "short": "Parsana et al. 2012"
+ },
+ "ParsanaEtAl2012b": {
+  "key": "ParsanaEtAl2012b",
+  "authors": [
+   "Parsana, Ashwini J.",
+   "Moran, Elizabeth E.",
+   "Brown, Thomas H."
+  ],
+  "year": "2012",
+  "title": "Rats learn to freeze to 22-kHz ultrasonic vocalizations through autoconditioning",
+  "venue": "Behavioural Brain Research",
+  "volume": "232",
+  "pages": "395–399",
+  "doi": "10.1016/j.bbr.2012.03.031",
+  "short": "Parsana et al. 2012"
+ },
+ "GetschowEtAl2013": {
+  "key": "GetschowEtAl2013",
+  "authors": [
+   "Getschow, Cynthia M.",
+   "Rivers, Pearl",
+   "Sterman, Samantha",
+   "Lumpkin, David C.",
+   "Tarvin, Keith A."
+  ],
+  "year": "2013",
+  "title": "Does Gray Squirrel (Sciurus carolinensis) Response to Heterospecific Alarm Calls Depend on Familiarity or Acoustic Similarity?",
+  "venue": "Ethology",
+  "volume": "119",
+  "pages": "983–992",
+  "doi": "10.1111/eth.12145",
+  "short": "Getschow et al. 2013"
+ },
+ "WilluhnEtAl2014": {
+  "key": "WilluhnEtAl2014",
+  "authors": [
+   "Willuhn, I.",
+   "Tose, A.",
+   "Wanat, M. J.",
+   "Hart, A. S.",
+   "Hollon, N. G.",
+   "Phillips, P. E. M.",
+   "Schwarting, R. K. W.",
+   "Wohr, M."
+  ],
+  "year": "2014",
+  "title": "Phasic Dopamine Release in the Nucleus Accumbens in Response to Pro-Social 50 kHz Ultrasonic Vocalizations in Rats",
+  "venue": "Journal of Neuroscience",
+  "volume": "34",
+  "pages": "10616–10623",
+  "doi": "10.1523/jneurosci.1060-14.2014",
+  "short": "Willuhn et al. 2014"
+ },
+ "JayneEtAl2015": {
+  "key": "JayneEtAl2015",
+  "authors": [
+   "Jayne, Kimberley",
+   "Lea, Stephen E.G.",
+   "Leaver, Lisa A."
+  ],
+  "year": "2015",
+  "title": "Behavioural responses of Eastern grey squirrels, Sciurus carolinensis, to cues of risk while foraging",
+  "venue": "Behavioural Processes",
+  "volume": "116",
+  "pages": "53–61",
+  "doi": "10.1016/j.beproc.2015.05.002",
+  "short": "Jayne et al. 2015"
+ },
+ "MagrathEtAl2015": {
+  "key": "MagrathEtAl2015",
+  "authors": [
+   "Magrath, Robert D.",
+   "Haff, Tonya M.",
+   "Fallow, Pamela M.",
+   "Radford, Andrew N."
+  ],
+  "year": "2015",
+  "title": "Eavesdropping on heterospecific alarm calls: from mechanisms to consequences",
+  "venue": "Biological Reviews",
+  "volume": "90",
+  "pages": "560–586",
+  "doi": "10.1111/brv.12122",
+  "short": "Magrath et al. 2015"
+ },
+ "GeisslerEtAl2016": {
+  "key": "GeisslerEtAl2016",
+  "authors": [
+   "Geissler, Diana B.",
+   "Schmidt, H. Sabine",
+   "Ehret, Günter"
+  ],
+  "year": "2016",
+  "title": "Knowledge About Sounds—Context-Specific Meaning Differently Activates Cortical Hemispheres, Auditory Cortical Fields, and Layers in House Mice",
+  "venue": "Frontiers in Neuroscience",
+  "volume": "10",
+  "pages": "",
+  "doi": "10.3389/fnins.2016.00098",
+  "short": "Geissler et al. 2016"
+ },
+ "CalubEtAl2018": {
+  "key": "CalubEtAl2018",
+  "authors": [
+   "Calub, Catrina A.",
+   "Furtak, Sharon C.",
+   "Brown, Thomas H."
+  ],
+  "year": "2018",
+  "title": "Revisiting the autoconditioning hypothesis for acquired reactivity to ultrasonic alarm calls",
+  "venue": "Physiology & Behavior",
+  "volume": "194",
+  "pages": "380–386",
+  "doi": "10.1016/j.physbeh.2018.06.029",
+  "short": "Calub et al. 2018"
+ },
+ "MoriyaEtAl2018": {
+  "key": "MoriyaEtAl2018",
+  "authors": [
+   "Moriya, Shunpei",
+   "Yamashita, Akira",
+   "Kawashima, Shigetaka",
+   "Nishi, Ryusei",
+   "Yamanaka, Akihiro",
+   "Kuwaki, Tomoyuki"
+  ],
+  "year": "2018",
+  "title": "Acute Aversive Stimuli Rapidly Increase the Activity of Ventral Tegmental Area Dopamine Neurons in Awake Mice",
+  "venue": "Neuroscience",
+  "volume": "386",
+  "pages": "16–23",
+  "doi": "10.1016/j.neuroscience.2018.06.027",
+  "short": "Moriya et al. 2018"
+ },
+ "LillyEtAl2019": {
+  "key": "LillyEtAl2019",
+  "authors": [
+   "Lilly, Marie V.",
+   "Lucore, Emma C.",
+   "Tarvin, Keith A."
+  ],
+  "year": "2019",
+  "title": "Eavesdropping grey squirrels infer safety from bird chatter",
+  "venue": "PLOS ONE",
+  "volume": "14",
+  "pages": "e0221279",
+  "doi": "10.1371/journal.pone.0221279",
+  "short": "Lilly et al. 2019"
+ },
+ "FreemanEtAl2020": {
+  "key": "FreemanEtAl2020",
+  "authors": [
+   "Freeman, Angela R.",
+   "Hare, James F.",
+   "Caldwell, Heather K."
+  ],
+  "year": "2020",
+  "title": "Call‐specific patterns of neural activation in auditory processing of Richardson’s ground squirrel alarm calls",
+  "venue": "Brain and Behavior",
+  "volume": "10",
+  "pages": "e01629",
+  "doi": "10.1002/brb3.1629",
+  "short": "Freeman et al. 2020"
+ },
+ "OlszynskiEtAl2020": {
+  "key": "OlszynskiEtAl2020",
+  "authors": [
+   "Olszyński, Krzysztof H.",
+   "Polowy, Rafał",
+   "Małż, Monika",
+   "Boguszewski, Paweł M.",
+   "Filipkowski, Robert K."
+  ],
+  "year": "2020",
+  "title": "Playback of Alarm and Appetitive Calls Differentially Impacts Vocal, Heart-Rate, and Motor Response in Rats",
+  "venue": "iScience",
+  "volume": "23",
+  "pages": "101577",
+  "doi": "10.1016/j.isci.2020.101577",
+  "short": "Olszyński et al. 2020"
+ },
+ "SchiavoEtAl2020": {
+  "key": "SchiavoEtAl2020",
+  "authors": [
+   "Schiavo, Jennifer K.",
+   "Valtcheva, Silvana",
+   "Bair-Marshall, Chloe J.",
+   "Song, Soomin C.",
+   "Martin, Kathleen A.",
+   "Froemke, Robert C."
+  ],
+  "year": "2020",
+  "title": "Innate and plastic mechanisms for maternal behaviour in auditory cortex",
+  "venue": "Nature",
+  "volume": "587",
+  "pages": "426–431",
+  "doi": "10.1038/s41586-020-2807-6",
+  "short": "Schiavo et al. 2020"
+ },
+ "TasakaEtAl2020": {
+  "key": "TasakaEtAl2020",
+  "authors": [
+   "Tasaka, Gen-ichi",
+   "Feigin, Libi",
+   "Maor, Ido",
+   "Groysman, Maya",
+   "DeNardo, Laura A.",
+   "Schiavo, Jennifer K.",
+   "Froemke, Robert C.",
+   "Luo, Liqun",
+   "Mizrahi, Adi"
+  ],
+  "year": "2020",
+  "title": "The Temporal Association Cortex Plays a Key Role in Auditory-Driven Maternal Plasticity",
+  "venue": "Neuron",
+  "volume": "107",
+  "pages": "566–579.e7",
+  "doi": "10.1016/j.neuron.2020.05.004",
+  "short": "Tasaka et al. 2020"
+ },
+ "ValdesBaizabalEtAl2020": {
+  "key": "ValdesBaizabalEtAl2020",
+  "authors": [
+   "Valdés-Baizabal, Catalina",
+   "Carbajal, Guillermo V.",
+   "Pérez-González, David",
+   "Malmierca, Manuel S."
+  ],
+  "year": "2020",
+  "title": "Dopamine modulates subcortical responses to surprising sounds",
+  "venue": "PLOS Biology",
+  "volume": "18",
+  "pages": "e3000744",
+  "doi": "10.1371/journal.pbio.3000744",
+  "short": "Valdés-Baizabal et al. 2020"
+ },
+ "WatermanMai2020": {
+  "key": "WatermanMai2020",
+  "authors": [
+   "Waterman, Jane M.",
+   "Mai, Monica"
+  ],
+  "year": "2020",
+  "title": "Eavesdropping of an African ground squirrel on the heterospecific alarm calls of a noisy ground‐nesting bird",
+  "venue": "Ethology",
+  "volume": "126",
+  "pages": "1122–1130",
+  "doi": "10.1111/eth.13092",
+  "short": "Waterman & Mai 2020"
+ },
+ "HernandezEtAl2021": {
+  "key": "HernandezEtAl2021",
+  "authors": [
+   "Hernández, M. Carmen",
+   "Jara-Stapfer, Denise M.",
+   "Muñoz, Ana",
+   "Bonacic, Cristian",
+   "Barja, Isabel",
+   "Rubio, André V."
+  ],
+  "year": "2021",
+  "title": "Behavioral Responses of Wild Rodents to Owl Calls in an Austral Temperate Forest",
+  "venue": "Animals",
+  "volume": "11",
+  "pages": "428",
+  "doi": "10.3390/ani11020428",
+  "short": "Hernández et al. 2021"
+ },
+ "KittendorfDantzer2021": {
+  "key": "KittendorfDantzer2021",
+  "authors": [
+   "Kittendorf, Anna",
+   "Dantzer, Ben"
+  ],
+  "year": "2021",
+  "title": "Urban fox squirrels exhibit tolerance to humans but respond to stimuli from natural predators",
+  "venue": "Ethology",
+  "volume": "127",
+  "pages": "697–709",
+  "doi": "10.1111/eth.13206",
+  "short": "Kittendorf & Dantzer 2021"
+ },
+ "VielleEtAl2021": {
+  "key": "VielleEtAl2021",
+  "authors": [
+   "Vielle, Cassandre",
+   "Montanari, Christian",
+   "Pelloux, Yann",
+   "Baunez, Christelle"
+  ],
+  "year": "2021",
+  "title": "Evidence for a vocal signature in the rat and its reinforcing effects: a key role for the subthalamic nucleus",
+  "venue": "Proceedings of the Royal Society B: Biological Sciences",
+  "volume": "288",
+  "pages": "20212260",
+  "doi": "10.1098/rspb.2021.2260",
+  "short": "Vielle et al. 2021"
+ },
+ "BerzEtAl2022": {
+  "key": "BerzEtAl2022",
+  "authors": [
+   "Berz, Annuska",
+   "Pasquini de Souza, Camila",
+   "Wöhr, Markus",
+   "Steinmüller, Sebastian",
+   "Bruntsch, Maria",
+   "Schäfer, Martin K.-H.",
+   "Schwarting, Rainer K. W."
+  ],
+  "year": "2022",
+  "title": "Contingent Social Interaction Does Not Prevent Habituation towards Playback of Pro-Social 50-kHz Calls: Behavioral Responses and Brain Activation Patterns",
+  "venue": "Brain Sciences",
+  "volume": "12",
+  "pages": "1474",
+  "doi": "10.3390/brainsci12111474",
+  "short": "Berz et al. 2022"
+ },
+ "ChenEtAl2022": {
+  "key": "ChenEtAl2022",
+  "authors": [
+   "Chen, Allen P. F.",
+   "Malgady, Jeffrey M.",
+   "Chen, Lu",
+   "Shi, Kaiyo W.",
+   "Cheng, Eileen",
+   "Plotkin, Joshua L.",
+   "Ge, Shaoyu",
+   "Xiong, Qiaojie"
+  ],
+  "year": "2022",
+  "title": "Nigrostriatal dopamine pathway regulates auditory discrimination behavior",
+  "venue": "Nature Communications",
+  "volume": "13",
+  "pages": "5942",
+  "doi": "10.1038/s41467-022-33747-2",
+  "short": "Chen et al. 2022"
+ },
+ "GoedhoopEtAl2022": {
+  "key": "GoedhoopEtAl2022",
+  "authors": [
+   "Goedhoop, Jessica N",
+   "van den Boom, Bastijn Jg",
+   "Robke, Rhiannon",
+   "Veen, Felice",
+   "Fellinger, Lizz",
+   "van Elzelingen, Wouter",
+   "Arbab, Tara",
+   "Willuhn, Ingo"
+  ],
+  "year": "2022",
+  "title": "Nucleus accumbens dopamine tracks aversive stimulus duration and prediction but not value or prediction error",
+  "venue": "eLife",
+  "volume": "11",
+  "pages": "e82711",
+  "doi": "10.7554/elife.82711",
+  "short": "Goedhoop et al. 2022"
+ },
+ "NardociEtAl2022": {
+  "key": "NardociEtAl2022",
+  "authors": [
+   "Nardoci, Matthew B.",
+   "Lakunina, Anna A.",
+   "Henderling, Devin C.",
+   "Pedregon, Jewlyssa C.",
+   "Mohn, Jennifer L.",
+   "Jaramillo, Santiago"
+  ],
+  "year": "2022",
+  "title": "Sound-Evoked Responses of Distinct Neuron Classes from the Tail of the Striatum",
+  "venue": "eneuro",
+  "volume": "9",
+  "pages": "ENEURO.0201–22.2022",
+  "doi": "10.1523/eneuro.0201-22.2022",
+  "short": "Nardoci et al. 2022"
+ },
+ "BonautoEtAl2023": {
+  "key": "BonautoEtAl2023",
+  "authors": [
+   "Bonauto, Sydney M.",
+   "Greuel, Olivia M.",
+   "Honeycutt, Jennifer A."
+  ],
+  "year": "2023",
+  "title": "Playback of rat 22-kHz ultrasonic vocalizations as a translational assay of negative affective states: An analysis of evoked behavior and brain activity",
+  "venue": "Neuroscience & Biobehavioral Reviews",
+  "volume": "153",
+  "pages": "105396",
+  "doi": "10.1016/j.neubiorev.2023.105396",
+  "short": "Bonauto et al. 2023"
+ },
+ "GreenstreetEtAl2025": {
+  "key": "GreenstreetEtAl2025",
+  "authors": [
+   "Greenstreet, Francesca",
+   "Martinez Vergara, Hernando",
+   "Johansson, Yvonne",
+   "Pati, Sthitapranjya",
+   "Schwarz, Laura",
+   "Lenzi, Stephen C.",
+   "Geerts, Jesse P.",
+   "Wisdom, Matthew",
+   "Gubanova, Alina",
+   "Rollik, Lars B.",
+   "Kaur, Jasvin",
+   "Moskovitz, Theodore",
+   "Cohen, Joseph",
+   "Thompson, Emmett",
+   "Margrie, Troy W.",
+   "Clopath, Claudia",
+   "Stephenson-Jones, Marcus"
+  ],
+  "year": "2025",
+  "title": "Dopaminergic action prediction errors serve as a value-free teaching signal",
+  "venue": "Nature",
+  "volume": "643",
+  "pages": "1333–1342",
+  "doi": "10.1038/s41586-025-09008-9",
+  "short": "Greenstreet et al. 2025"
+ },
+ "KutluEtAl2025": {
+  "key": "KutluEtAl2025",
+  "authors": [
+   "Kutlu, Munir Gunes",
+   "Cajigas Gabriel, Stephanie A.",
+   "Tat, Jennifer",
+   "Zachry, Jennifer E.",
+   "Calipari, Erin S."
+  ],
+  "year": "2025",
+  "title": "Novelty Influences Dopamine Responses to Conditioned and Unconditioned Aversive Stimuli over Extended Temporal Windows",
+  "venue": "eneuro",
+  "volume": "12",
+  "pages": "ENEURO.0358–25.2025",
+  "doi": "10.1523/eneuro.0358-25.2025",
+  "short": "Kutlu et al. 2025"
+ },
+ "WarrenEtAl2025": {
+  "key": "WarrenEtAl2025",
+  "authors": [
+   "Warren, Megan R.",
+   "Zha, Jenny",
+   "Young, Larry J.",
+   "Liu, Robert C."
+  ],
+  "year": "2025",
+  "title": "Vocal recognition of partners by female prairie voles",
+  "venue": "iScience",
+  "volume": "28",
+  "pages": "111796",
+  "doi": "10.1016/j.isci.2025.111796",
+  "short": "Warren et al. 2025"
+ },
+ "FuruyamaEtAl2026": {
+  "key": "FuruyamaEtAl2026",
+  "authors": [
+   "Furuyama, Takafumi",
+   "Ono, Munenori",
+   "Kato, Nobuo",
+   "Yamamoto, Ryo"
+  ],
+  "year": "2026",
+  "title": "Noise-evoked dopamine dynamics in the nucleus accumbens and tail of the striatum",
+  "venue": "iScience",
+  "volume": "29",
+  "pages": "115789",
+  "doi": "10.1016/j.isci.2026.115789",
+  "short": "Furuyama et al. 2026"
+ },
+ "SolajaGustison2026": {
+  "key": "SolajaGustison2026",
+  "authors": [
+   "Solaja, Dami",
+   "Gustison, Morgan L."
+  ],
+  "year": "2026",
+  "title": "Structure, functions, and mechanisms of Rodentia vocalizations across the lifespan",
+  "venue": "Behavioural Brain Research",
+  "volume": "517",
+  "pages": "116485",
+  "doi": "10.1016/j.bbr.2026.116485",
+  "short": "Solaja & Gustison 2026"
+ },
+ "LeDouxEtAl1984": {
+  "key": "LeDouxEtAl1984",
+  "authors": [
+   "LeDoux, J. E.",
+   "Sakaguchi, A.",
+   "Reis, D. J."
+  ],
+  "year": "1984",
+  "title": "Subcortical efferent projections of the medial geniculate nucleus mediate emotional responses conditioned to acoustic stimuli",
+  "venue": "Journal of Neuroscience",
+  "volume": "4",
+  "pages": "683–698",
+  "doi": "10.1523/JNEUROSCI.04-03-00683.1984",
+  "short": "LeDoux et al. 1984"
+ },
+ "LeDouxEtAl1988": {
+  "key": "LeDouxEtAl1988",
+  "authors": [
+   "LeDoux, J. E.",
+   "Iwata, J.",
+   "Cicchetti, P.",
+   "Reis, D. J."
+  ],
+  "year": "1988",
+  "title": "Different projections of the central amygdaloid nucleus mediate autonomic and behavioral correlates of conditioned fear",
+  "venue": "Journal of Neuroscience",
+  "volume": "8",
+  "pages": "2517–2529",
+  "doi": "10.1523/JNEUROSCI.08-07-02517.1988",
+  "short": "LeDoux et al. 1988"
+ },
+ "DavisEtAl1982": {
+  "key": "DavisEtAl1982",
+  "authors": [
+   "Davis, Michael",
+   "Gendelman, D. S.",
+   "Tischler, M. D.",
+   "Gendelman, P. M."
+  ],
+  "year": "1982",
+  "title": "A primary acoustic startle circuit: lesion and stimulation studies",
+  "venue": "Journal of Neuroscience",
+  "volume": "2",
+  "pages": "791–805",
+  "doi": "10.1523/JNEUROSCI.02-06-00791.1982",
+  "short": "Davis et al. 1982"
+ },
+ "LeeEtAl1996": {
+  "key": "LeeEtAl1996",
+  "authors": [
+   "Lee, Younglim",
+   "L\\'opez, D. E.",
+   "Meloni, E. G.",
+   "Davis, Michael"
+  ],
+  "year": "1996",
+  "title": "A primary acoustic startle pathway: obligatory role of cochlear root neurons and the nucleus reticularis pontis caudalis",
+  "venue": "Journal of Neuroscience",
+  "volume": "16",
+  "pages": "3775–3789",
+  "doi": "10.1523/JNEUROSCI.16-11-03775.1996",
+  "short": "Lee et al. 1996"
+ },
+ "QuirkEtAl1995": {
+  "key": "QuirkEtAl1995",
+  "authors": [
+   "Quirk, Gregory J.",
+   "Repa, J. Christopher",
+   "LeDoux, Joseph E."
+  ],
+  "year": "1995",
+  "title": "Fear conditioning enhances short-latency auditory responses of lateral amygdala neurons: parallel recordings in the freely behaving rat",
+  "venue": "Neuron",
+  "volume": "15",
+  "pages": "1029–1039",
+  "doi": "10.1016/0896-6273(95)90092-6",
+  "short": "Quirk et al. 1995"
+ },
+ "TsvetkovEtAl2002": {
+  "key": "TsvetkovEtAl2002",
+  "authors": [
+   "Tsvetkov, Evgeny",
+   "Carlezon, William A.",
+   "Benes, Francine M.",
+   "Kandel, Eric R.",
+   "Bolshakov, Vadim Y."
+  ],
+  "year": "2002",
+  "title": "Fear conditioning occludes LTP-induced presynaptic enhancement of synaptic transmission in the cortical pathway to the lateral amygdala",
+  "venue": "Neuron",
+  "volume": "34",
+  "pages": "289–300",
+  "doi": "10.1016/S0896-6273(02)00645-1",
+  "short": "Tsvetkov et al. 2002"
+ },
+ "PereiraEtAl2020": {
+  "key": "PereiraEtAl2020",
+  "authors": [
+   "Pereira, Ana G.",
+   "Farias, Matheus",
+   "Moita, Marta A."
+  ],
+  "year": "2020",
+  "title": "Thalamic, cortical, and amygdala involvement in the processing of a natural sound cue of danger",
+  "venue": "PLoS Biology",
+  "volume": "18",
+  "pages": "e3000674",
+  "doi": "10.1371/journal.pbio.3000674",
+  "short": "Pereira et al. 2020"
+ },
+ "FadokEtAl2017": {
+  "key": "FadokEtAl2017",
+  "authors": [
+   "Fadok, Jonathan P.",
+   "Krabbe, Sabine",
+   "Markovic, Milica",
+   "Courtin, Julien",
+   "Xu, Chun",
+   "Massi, Lema",
+   "Botta, Paolo",
+   "Bylund, Kristine",
+   "M\\\"uller, Christian",
+   "Kovacevic, Aleksandar",
+   "Tovote, Philip",
+   "L\\\"uthi, Andreas"
+  ],
+  "year": "2017",
+  "title": "A competitive inhibitory circuit for selection of active and passive fear responses",
+  "venue": "Nature",
+  "volume": "542",
+  "pages": "96–100",
+  "doi": "10.1038/nature21047",
+  "short": "Fadok et al. 2017"
+ },
+ "TovoteEtAl2016": {
+  "key": "TovoteEtAl2016",
+  "authors": [
+   "Tovote, Philip",
+   "Esposito, Maria Soledad",
+   "Botta, Paolo",
+   "Chaudun, Fabrice",
+   "Fadok, Jonathan P.",
+   "Markovic, Milica",
+   "Wolff, Steffen B. E.",
+   "Ramakrishnan, Charu",
+   "Fenno, Lief",
+   "Deisseroth, Karl",
+   "Herry, Cyril",
+   "Arber, Silvia",
+   "L\\\"uthi, Andreas"
+  ],
+  "year": "2016",
+  "title": "Midbrain circuits for defensive behaviour",
+  "venue": "Nature",
+  "volume": "534",
+  "pages": "206–212",
+  "doi": "10.1038/nature17996",
+  "short": "Tovote et al. 2016"
+ },
+ "XiongEtAl2015": {
+  "key": "XiongEtAl2015",
+  "authors": [
+   "Xiong, Xiaorui R.",
+   "Liang, Feixue",
+   "Zingg, Brian",
+   "Ji, Xu-ying",
+   "Ibrahim, Leena A.",
+   "Tao, Huizhong W.",
+   "Zhang, Li I."
+  ],
+  "year": "2015",
+  "title": "Auditory cortex controls sound-driven innate defense behaviour through corticofugal projections to inferior colliculus",
+  "venue": "Nature Communications",
+  "volume": "6",
+  "pages": "7224",
+  "doi": "10.1038/ncomms8224",
+  "short": "Xiong et al. 2015"
+ },
+ "LiEtAl2021": {
+  "key": "LiEtAl2021",
+  "authors": [
+   "Li, Zhong",
+   "Wei, Jin-Xing",
+   "Zhang, Guang-Wei",
+   "Huang, Junxiang J.",
+   "Zingg, Brian",
+   "Wang, Xiyue",
+   "Tao, Huizhong W.",
+   "Zhang, Li I."
+  ],
+  "year": "2021",
+  "title": "Corticostriatal control of defense behavior in mice induced by auditory looming cues",
+  "venue": "Nature Communications",
+  "volume": "12",
+  "pages": "1040",
+  "doi": "10.1038/s41467-021-21248-7",
+  "short": "Li et al. 2021"
+ },
+ "GoodeEtAl2019": {
+  "key": "GoodeEtAl2019",
+  "authors": [
+   "Goode, Travis D.",
+   "Ressler, Reed L.",
+   "Acca, Gillian M.",
+   "Miles, Olivia W.",
+   "Maren, Stephen"
+  ],
+  "year": "2019",
+  "title": "Bed nucleus of the stria terminalis regulates fear to unpredictable threat signals",
+  "venue": "eLife",
+  "volume": "8",
+  "pages": "e46525",
+  "doi": "10.7554/eLife.46525",
+  "short": "Goode et al. 2019"
+ },
+ "DemaestriEtAl2019": {
+  "key": "DemaestriEtAl2019",
+  "authors": [
+   "Demaestri, Camila",
+   "Brenhouse, Heather C.",
+   "Honeycutt, Jennifer A."
+  ],
+  "year": "2019",
+  "title": "22 kHz and 55 kHz ultrasonic vocalizations differentially influence neural and behavioral outcomes: Implications for modeling anxiety via auditory stimuli in the rat",
+  "venue": "Behavioural Brain Research",
+  "volume": "360",
+  "pages": "134–145",
+  "doi": "10.1016/j.bbr.2018.12.005",
+  "short": "Demaestri et al. 2019"
+ },
+ "GranataEtAl2024": {
+  "key": "GranataEtAl2024",
+  "authors": [
+   "Granata, Lauren E.",
+   "Chang, Arnold",
+   "Shaheed, Habiba",
+   "Shinde, Anjali",
+   "Kulkarni, Praveen",
+   "Satpute, Ajay",
+   "Brenhouse, Heather C.",
+   "Honeycutt, Jennifer A."
+  ],
+  "year": "2024",
+  "title": "Examining brain activity responses during rat ultrasonic vocalization playback: Insights from a novel fMRI translational paradigm",
+  "venue": "eNeuro",
+  "volume": "11",
+  "pages": "ENEURO.0179-23.2024",
+  "doi": "10.1523/ENEURO.0179-23.2024",
+  "short": "Granata et al. 2024"
+ },
+ "OudaEtAl2016": {
+  "key": "OudaEtAl2016",
+  "authors": [
+   "Ouda, Ladislav",
+   "J\\'ilek, Milan",
+   "Syka, Josef"
+  ],
+  "year": "2016",
+  "title": "Expression of c-Fos in rat auditory and limbic systems following 22-kHz calls",
+  "venue": "Behavioural Brain Research",
+  "volume": "308",
+  "pages": "196–204",
+  "doi": "10.1016/j.bbr.2016.04.030",
+  "short": "Ouda et al. 2016"
+ },
+ "MarlinEtAl2015": {
+  "key": "MarlinEtAl2015",
+  "authors": [
+   "Marlin, Bianca J.",
+   "Mitre, Mariela",
+   "D'amour, James A.",
+   "Chao, Moses V.",
+   "Froemke, Robert C."
+  ],
+  "year": "2015",
+  "title": "Oxytocin enables maternal behaviour by balancing cortical inhibition",
+  "venue": "Nature",
+  "volume": "520",
+  "pages": "499–504",
+  "doi": "10.1038/nature14402",
+  "short": "Marlin et al. 2015"
+ },
+ "DuanEtAl2025": {
+  "key": "DuanEtAl2025",
+  "authors": [
+   "Duan, Haoyu",
+   "Wang, Tianyu",
+   "Zhang, Xinyang",
+   "Xia, Dan",
+   "Wang, Zeyi",
+   "Fong, Tsz Hei",
+   "Li, Tianxiang",
+   "Yan, Rongzhen",
+   "Zhan, Yang",
+   "Li, Yulong",
+   "Gao, Wen-Jun",
+   "Zhou, Qiang"
+  ],
+  "year": "2025",
+  "title": "The locus coeruleus influences behavior by coordinating effective integration of fear memories and sensory input",
+  "venue": "PLoS Biology",
+  "volume": "23",
+  "pages": "e3003272",
+  "doi": "10.1371/journal.pbio.3003272",
+  "short": "Duan et al. 2025"
+ },
+ "Fanselow1994": {
+  "key": "Fanselow1994",
+  "authors": [
+   "Fanselow, Michael S."
+  ],
+  "year": "1994",
+  "title": "Neural organization of the defensive behavior system responsible for fear",
+  "venue": "Psychonomic Bulletin & Review",
+  "volume": "1",
+  "pages": "429–438",
+  "doi": "10.3758/BF03210947",
+  "short": "Fanselow 1994"
+ },
+ "IwataLeDoux1988": {
+  "key": "IwataLeDoux1988",
+  "authors": [
+   "Iwata, Jiro",
+   "LeDoux, Joseph E."
+  ],
+  "year": "1988",
+  "title": "Dissociation of associative and nonassociative concomitants of classical fear conditioning in the freely behaving rat",
+  "venue": "Behavioral Neuroscience",
+  "volume": "102",
+  "pages": "66–76",
+  "doi": "10.1037/0735-7044.102.1.66",
+  "short": "Iwata & LeDoux 1988"
+ },
+ "UlrichLaiHerman2009": {
+  "key": "UlrichLaiHerman2009",
+  "authors": [
+   "Ulrich-Lai, Yvonne M.",
+   "Herman, James P."
+  ],
+  "year": "2009",
+  "title": "Neural regulation of endocrine and autonomic stress responses",
+  "venue": "Nature Reviews Neuroscience",
+  "volume": "10",
+  "pages": "397–409",
+  "doi": "10.1038/nrn2647",
+  "short": "Ulrich-Lai & Herman 2009"
+ },
+ "Roelofs2017": {
+  "key": "Roelofs2017",
+  "authors": [
+   "Roelofs, Karin"
+  ],
+  "year": "2017",
+  "title": "Freeze for action: neurobiological mechanisms in animal and human freezing",
+  "venue": "Philosophical Transactions of the Royal Society B",
+  "volume": "372",
+  "pages": "20160206",
+  "doi": "10.1098/rstb.2016.0206",
+  "short": "Roelofs 2017"
+ },
+ "RigoliEtAl2016": {
+  "key": "RigoliEtAl2016",
+  "authors": [
+   "Rigoli, Francesco",
+   "Pezzulo, Giovanni",
+   "Dolan, Raymond J."
+  ],
+  "year": "2016",
+  "title": "Prospective and Pavlovian mechanisms in aversive behaviour",
+  "venue": "Cognition",
+  "volume": "146",
+  "pages": "415–425",
+  "doi": "10.1016/j.cognition.2015.10.017",
+  "short": "Rigoli et al. 2016"
+ },
+ "DayanEtAl2006": {
+  "key": "DayanEtAl2006",
+  "authors": [
+   "Dayan, Peter",
+   "Niv, Yael",
+   "Seymour, Ben",
+   "Daw, Nathaniel D."
+  ],
+  "year": "2006",
+  "title": "The misbehavior of value and the discipline of the will",
+  "venue": "Neural Networks",
+  "volume": "19",
+  "pages": "1153–1160",
+  "doi": "10.1016/j.neunet.2006.03.002",
+  "short": "Dayan et al. 2006"
+ },
+ "LimaDill1990": {
+  "key": "LimaDill1990",
+  "authors": [
+   "Lima, Steven L.",
+   "Dill, Lawrence M."
+  ],
+  "year": "1990",
+  "title": "Behavioral decisions made under the risk of predation: a review and prospectus",
+  "venue": "Canadian Journal of Zoology",
+  "volume": "68",
+  "pages": "619–640",
+  "doi": "10.1139/z90-092",
+  "short": "Lima & Dill 1990"
+ },
+ "Sirot2010": {
+  "key": "Sirot2010",
+  "authors": [
+   "Sirot, Etienne"
+  ],
+  "year": "2010",
+  "title": "Should risk allocation strategies facilitate or hinder habituation to nonlethal disturbance in wildlife?",
+  "venue": "Animal Behaviour",
+  "volume": "80",
+  "pages": "737–743",
+  "doi": "10.1016/j.anbehav.2010.07.014",
+  "short": "Sirot 2010"
+ },
+ "RescorlaWagner1972": {
+  "key": "RescorlaWagner1972",
+  "authors": [
+   "Rescorla, Robert A.",
+   "Wagner, Allan R."
+  ],
+  "year": "1972",
+  "title": "A theory of Pavlovian conditioning: variations in the effectiveness of reinforcement and nonreinforcement",
+  "venue": "Classical Conditioning II: Current Research and Theory",
+  "volume": "",
+  "pages": "64–99",
+  "doi": "",
+  "short": "Rescorla & Wagner 1972"
+ },
+ "GaidicaDantzer2020": {
+  "key": "GaidicaDantzer2020",
+  "authors": [
+   "Gaidica, Matt",
+   "Dantzer, Ben"
+  ],
+  "year": "2020",
+  "title": "Quantifying the autonomic response to stressors---one way to expand the definition of ``stress'' in animals",
+  "venue": "Integrative and Comparative Biology",
+  "volume": "60",
+  "pages": "113–125",
+  "doi": "10.1093/icb/icaa009",
+  "short": "Gaidica & Dantzer 2020"
+ },
+ "ConcinaEtAl2018": {
+  "key": "ConcinaEtAl2018",
+  "authors": [
+   "Concina, Giulia",
+   "Cambiaghi, Marco",
+   "Renna, Annamaria",
+   "Sacchetti, Benedetto"
+  ],
+  "year": "2018",
+  "title": "Coherent activity between the prelimbic and auditory cortex in the slow-gamma band underlies fear discrimination",
+  "venue": "Journal of Neuroscience",
+  "volume": "38",
+  "pages": "8313–8328",
+  "doi": "10.1523/JNEUROSCI.0540-18.2018",
+  "short": "Concina et al. 2018"
+ },
+ "QuinnEtAl2009": {
+  "key": "QuinnEtAl2009",
+  "authors": [
+   "Quinn, Jennifer J.",
+   "Wied, Heather M.",
+   "Liu, Dorothy",
+   "Fanselow, Michael S."
+  ],
+  "year": "2009",
+  "title": "Post-training excitotoxic lesions of the dorsal hippocampus attenuate generalization in auditory delay fear conditioning",
+  "venue": "European Journal of Neuroscience",
+  "volume": "29",
+  "pages": "1692–1700",
+  "doi": "10.1111/j.1460-9568.2009.06727.x",
+  "short": "Quinn et al. 2009"
+ },
+ "SierraMercadoEtAl2011": {
+  "key": "SierraMercadoEtAl2011",
+  "authors": [
+   "Sierra-Mercado, Demetrio",
+   "Padilla-Coreano, Nancy",
+   "Quirk, Gregory J."
+  ],
+  "year": "2011",
+  "title": "Dissociable roles of prelimbic and infralimbic cortices, ventral hippocampus, and basolateral amygdala in the expression and extinction of conditioned fear",
+  "venue": "Neuropsychopharmacology",
+  "volume": "36",
+  "pages": "529–538",
+  "doi": "10.1038/npp.2010.184",
+  "short": "Sierra-Mercado et al. 2011"
+ }
+}

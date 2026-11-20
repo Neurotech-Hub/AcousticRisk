@@ -20,6 +20,10 @@ build/*
 *.snm
 *.vrb
 
+# Companion site (site/)
+site/node_modules/
+site/dist/
+
 # OS / editor
 .DS_Store
 *.swp

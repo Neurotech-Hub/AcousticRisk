@@ -1,0 +1,29 @@
+:root {
+  /* Palette: docs/COMPANION.md (design guidelines) */
+  --bg: #f7f5ee;
+  --surface: #ffffff;
+  --text: #162a2e;
+  --text-2: #55656a;
+  --accent: #235b57;
+  --rapid: #a45139;
+  --learned: #4a71a3;
+  --action: #77609a;
+  --history: #8a621d;
+  --border: #d7ddd8;
+  --win: #2a7046;
+  --win-wash: color-mix(in srgb, var(--win) 9%, var(--surface));
+
+  /* Derived */
+  --knockout: var(--bg);
+  --accent-wash: color-mix(in srgb, var(--accent) 11%, var(--bg));
+  --ground: #e8e3d3;
+  --shadow: 0 1px 0 rgb(22 42 46 / 0.04);
+
+  --font-serif: 'Newsreader', 'Iowan Old Style', Georgia, serif;
+  --font-sans: 'Inter', system-ui, -apple-system, 'Segoe UI', sans-serif;
+  --font-mono: 'IBM Plex Mono', ui-monospace, 'SF Mono', Menlo, monospace;
+
+  --measure: 62ch;
+  --page: 1120px;
+  --gutter: clamp(18px, 4vw, 40px);
+}
