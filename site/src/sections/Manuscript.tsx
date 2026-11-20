@@ -39,7 +39,7 @@ export function Manuscript() {
           <p className="paper-author">{AUTHOR}. Preprint.</p>
           <div className="hero-cta">
             <a className="btn-primary" href={PREPRINT_URL} target="_blank" rel="noreferrer">
-              Download the PDF <Icon name="external" size={14} />
+              Read on Preprints.org <Icon name="external" size={14} />
             </a>
             <a className="btn-quiet" href={REPO_URL} target="_blank" rel="noreferrer">
               Source on GitHub <Icon name="external" size={14} />

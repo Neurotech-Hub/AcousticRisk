@@ -28,7 +28,7 @@ export default function App() {
           <p>
             Companion to <em>{TITLE}</em>, {AUTHOR}.{' '}
             <a href={PREPRINT_URL} target="_blank" rel="noreferrer">
-              PDF
+              Preprint
             </a>{' '}
             ·{' '}
             <a href={REPO_URL} target="_blank" rel="noreferrer">
