@@ -13,7 +13,7 @@ The framework rests on three demands that any receiver faces: responding rapidly
 
 I believe the manuscript suits *Neuroscience & Biobehavioral Reviews* because it integrates behavioral ecology, learning theory, and systems neuroscience around a shared biological question, and because its framework is designed to guide experiments in both laboratory and field.
 
-The manuscript contains four figures, two main-text tables, and two supplementary tables. Claude Opus 5.5 (Anthropic) assisted with literature research, developing organizing principles, and grammatical editing, and the conceptual illustrations in Figures 1–4 were created with ChatGPT (OpenAI) image generation; both are disclosed in the declarations, and the figure tools are also named in each caption.
+The manuscript contains four figures, two main-text tables, and two supplementary tables. Claude Opus 5.5 (Anthropic) assisted with literature research, developing organizing principles, and grammatical editing, and the conceptual illustrations in Figures 1–4 were assisted by ChatGPT (OpenAI) image generation and then edited by the author; both are disclosed in the declarations, and the figure tools are also named in each caption.
 
 This manuscript has not been published and is not under consideration elsewhere. I am the sole author and declare no competing interests.
 
