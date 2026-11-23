@@ -30,9 +30,13 @@ Write as a curious scientist explaining something fascinating to another curious
 - **Make important points in short, declarative sentences.** Use longer sentences for evidence and qualification, not for the main claim.
 - **Explain, don't talk down.** Define a brain region, acronym, method, or ecological concept on first use in plain words (e.g., "the periaqueductal gray (PAG), a midbrain region that organizes defensive movements"; "vigilance, an upright scanning posture that trades feeding time for information"). Never explain what any scientist already knows.
 - **Use concrete biology.** A specific animal doing a specific thing beats an abstraction. Use a metaphor only when it genuinely clarifies; avoid forced analogies.
+- **Plain words over abstract nouns.** If a sentence rests on phrases like "integrate questions," "interpretive constraints," or "homologous mechanisms," rewrite it concretely: name the animal, the sound, or what the reader can now do. Keep a technical term only where no plain one exists.
+- **Every opening sentence carries an idea.** The first sentence of a section or paragraph states an insight, a tension, or a question the paragraph then answers. It never only announces structure or points elsewhere.
+- **Pointers are subordinate.** References to sections, tables, and figures belong in a clause or parentheses attached to a substantive claim, never as a sentence of their own.
+- **Short, thematic paragraphs that flow.** Each paragraph develops one theme in roughly three to six sentences. When a paragraph shifts from evidence to interpretation, or from one species, timescale, or method to another, start a new one. Link consecutive paragraphs through the science (the question the last one left open, or the contrast the next one tests), not through signposts.
 - **Qualify once, precisely.** State the limit of an inference where it applies, naming the actual source of uncertainty (stimulus, species, method). Do not repeat the same caveat in every paragraph; once the evidence classification is established for a study, refer to it briefly.
 - Banned: "delve," "intricate," "crucial," "robust," "landscape," "underscores," "highlights," "not only … but also," "it is important to note," "taken together" as a reflex, generic importance claims, formulaic openings and conclusions, excessive signposting, transitions without a scientific connection, stacked hedges, and closing sentences that restate the paragraph. Rhetorical questions are banned; a genuine scientific question that the paragraph then answers is encouraged.
-- Remove sentences that sound polished but carry no information.
+- Remove sentences that sound polished but carry no information. Test: if the reader would lose nothing by deleting a sentence, or it reads like a manual, cut it or fold it into the sentence it supports.
 
 ## Evidence classification (use one scheme everywhere)
 
